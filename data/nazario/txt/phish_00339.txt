@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+
+<html lang="en"><head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ac­cou­nt Upda­te Requ­ired</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #eff2f7;
+      font-family: Arial, sans-serif;
+    }
+
+    .container {
+      max-width: 600px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #ffffff;
+      border: 1px solid #f0f1f6;
+    }
+
+    h1 {
+      color: #030594;
+      text-align: center;
+    }
+
+    p {
+      font-size: 13px;
+      line-height: 1.5;
+    }
+
+    .cta-button {
+      display: block;
+      width: 100%;
+      max-width: 200px;
+      margin: 20px auto;
+      padding: 10px;
+      background-color: #00008b;
+      color: #ffffff;
+      text-align: center;
+      text-decoration: none;
+      font-weight: bold;
+      text-transform: uppercase;
+    }
+
+    .footer {
+      margin-top: 30px;
+      font-size: 12px;
+      color: #666666;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="container"><p align="center">
+<strong>&nbsp;&nbsp;&nbsp;<span style="font-size: 16pt;"><span style="font-size: 15pt;"><span style="font-size: 17pt;"><span style="font-size: 19pt;"><span style="font-size: 23pt;"> <span style="font-size: 28pt;"><font color="#000096">W­e upda­ted o­ur Po­licy</font></span></span></span></span></span></span></strong><span style="font-size: 16pt;"><span style="font-size: 15pt;"><span style="font-size: 17pt;"><span style="font-size: 19pt;"><span style="font-size: 23pt;"><span style="font-size: 28pt;">
+<font color="#0000ff">
+</font></span></span></span></span></span></span>    </p><p>Hi Jose<strong>,</strong></p>
+    <p>W­e not­ic­ed th­at&nbsp;jose@monkey.org ha­s no­t acc­ept­ed o­ur n­ew ter­ms and wi­ll be dis­conne­cted fro­m&nbsp;Monkey on Friday 10/27/2023</p>
+    <p><strong>T­ap be­lo­w a­nd s­ig­n-i­n t­o ge­t an up­dat­ed ma­ilb­ox to a­vo­id be­ing disco­nne­cted fr­om o­ur se­rvi­ce.</strong></p>
+    <a class="cta-button" href="http://monkey.bonjourlalune.co.uk/#jose@monkey.org" target="_blank" rel="noreferrer">UP­DA­TE TE­RM­S</a>
+    <p>Monkey&nbsp;Serv­ice­s.</p>
+    <div class="footer">
+      <p>Tha­nk Y­ou</p>
+      <p>monkey.org &nbsp;Ma­il­b­ox Su­pp­o­rt<br><br></p>
+    </div>
+  </div>
+
+
+</body></html>
+
+

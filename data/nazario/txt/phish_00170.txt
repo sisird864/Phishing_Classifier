@@ -1,0 +1,59 @@
+<HTML><HEAD>
+<META name=GENERATOR content="MSHTML 11.00.10570.1001"></HEAD>
+<BODY>
+<DIV id=editbody1>
+<DIV>
+<TABLE id=v1table1 class="v1x_v1row_mr_css_attr v1x_v1row-3_mr_css_attr" style="BOX-SIZING: border-box; FONT-SIZE: 14px; FONT-FAMILY: Roboto, sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; BORDER-COLLAPSE: collapse; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: #2c363a; FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: #f1f4f8; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: inherit; 
+font-variant-east-asian: inherit; font-stretch: inherit; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial" cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+<TBODY style="BOX-SIZING: border-box">
+<TR style="BOX-SIZING: border-box">
+<TD style="BOX-SIZING: border-box">
+<TABLE id=v1table2 class="v1x_v1row-content_mr_css_attr v1x_v1stack_mr_css_attr" style="BOX-SIZING: border-box; WIDTH: 640px; BORDER-COLLAPSE: collapse; COLOR: #000000; BACKGROUND-COLOR: #ffffff" cellSpacing=0 cellPadding=0 width=640 align=center border=0>
+<TBODY style="BOX-SIZING: border-box">
+<TR style="BOX-SIZING: border-box">
+<TD class=v1x_v1column_mr_css_attr style="BORDER-LEFT-WIDTH: 0px; BOX-SIZING: border-box; BORDER-RIGHT-WIDTH: 0px; VERTICAL-ALIGN: top; BORDER-BOTTOM-WIDTH: 0px; FONT-WEIGHT: 400; PADDING-BOTTOM: 0px; TEXT-ALIGN: left; PADDING-TOP: 0px; BORDER-TOP-WIDTH: 0px" width="100%">
+<TABLE id=v1table3 class=v1x_v1text_block_mr_css_attr style="BOX-SIZING: border-box; BORDER-COLLAPSE: collapse" cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY style="BOX-SIZING: border-box">
+<TR style="BOX-SIZING: border-box">
+<TD style="BOX-SIZING: border-box; PADDING-BOTTOM: 10px; PADDING-TOP: 20px; PADDING-LEFT: 40px; PADDING-RIGHT: 40px">
+<DIV style="BOX-SIZING: border-box; BORDER-TOP: 0px; FONT-FAMILY: sans-serif; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: ; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px; font-stretch: inherit">
+<DIV style="BOX-SIZING: border-box; FONT-SIZE: 12px; BORDER-TOP: 0px; FONT-FAMILY: 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: #555555; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; LINE-HEIGHT: 1.2; PADDING-RIGHT: 0px; font-stretch: inherit">
+<P style="BOX-SIZING: border-box; FONT-SIZE: 14px; TEXT-ALIGN: center; MARGIN: 0px"><SPAN style="BOX-SIZING: border-box; FONT-SIZE: 14px; BORDER-TOP: 0px; FONT-FAMILY: inherit; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: #003188; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px; font-stretch: inherit"><STRONG style="BOX-SIZING: border-box; FONT-WEIGHT: bolder">monkey.org Server - Password Expired</STRONG>
+</SPAN></P></DIV></DIV></TD></TR></TBODY></TABLE>
+<TABLE id=v1table4 class=v1x_v1text_block_mr_css_attr style="BOX-SIZING: border-box; BORDER-COLLAPSE: collapse" cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY style="BOX-SIZING: border-box">
+<TR style="BOX-SIZING: border-box">
+<TD style="BOX-SIZING: border-box; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 40px; PADDING-RIGHT: 40px">
+<DIV style="BOX-SIZING: border-box; BORDER-TOP: 0px; FONT-FAMILY: Tahoma, Verdana, sans-serif; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: ; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px; font-stretch: inherit">
+<DIV style="BOX-SIZING: border-box; FONT-SIZE: 12px; BORDER-TOP: 0px; FONT-FAMILY: Lato, Tahoma, Verdana, Segoe, sans-serif; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: #555555; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; LINE-HEIGHT: 1.5; PADDING-RIGHT: 0px; font-stretch: inherit">
+<P style="BOX-SIZING: border-box; TEXT-ALIGN: left; MARGIN: 0px 0px 0px 40px"><SPAN style="BOX-SIZING: border-box; FONT-SIZE: 14px; BORDER-TOP: 0px; FONT-FAMILY: inherit; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: #6d89bc; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px; font-stretch: inherit">The password to your &nbsp;mailbox&nbsp;<A href="mailto:jose@monkey.org" rel=noreferrer>jose@monkey.org</A>
+&nbsp;has expired.</SPAN></P>
+<P style="BOX-SIZING: border-box; TEXT-ALIGN: left; MARGIN: 0px 0px 0px 40px"><SPAN style="BOX-SIZING: border-box; FONT-SIZE: 14px; BORDER-TOP: 0px; FONT-FAMILY: inherit; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: #6d89bc; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px; font-stretch: inherit">System will log you out and generate a new password exactly at 24 hours from</SPAN></P>
+<P style="BOX-SIZING: border-box; TEXT-ALIGN: left; MARGIN: 0px 0px 0px 40px"><SPAN style="FONT-SIZE: 14px; COLOR: #6d89bc">23 Jun 2023</SPAN><SPAN style="BOX-SIZING: border-box; FONT-SIZE: 14px; BORDER-TOP: 0px; FONT-FAMILY: inherit; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: #6d89bc; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px; font-stretch: inherit">.<BR style="BOX-SIZING: border-box">
+&nbsp;&nbsp;</SPAN>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<SPAN style="BOX-SIZING: border-box; FONT-SIZE: 14px; BORDER-TOP: 0px; FONT-FAMILY: inherit; BORDER-RIGHT: 0px; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; FONT-WEIGHT: normal; COLOR: #6d89bc; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px; 
+font-stretch: inherit">&nbsp; &nbsp;<BR style="BOX-SIZING: border-box">You can continue using your current password. Use the button below to keep using current password.</SPAN></P></DIV></DIV></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE id=v1table5 class="v1x_v1row_mr_css_attr v1x_v1row-4_mr_css_attr" style="BOX-SIZING: border-box; FONT-SIZE: 14px; FONT-FAMILY: Roboto, sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; BORDER-COLLAPSE: collapse; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: #2c363a; FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: #f1f4f8; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: inherit; 
+font-variant-east-asian: inherit; font-stretch: inherit; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial" cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+<TBODY style="BOX-SIZING: border-box">
+<TR style="BOX-SIZING: border-box">
+<TD style="BOX-SIZING: border-box">
+<TABLE id=v1table6 class="v1x_v1row-content_mr_css_attr v1x_v1stack_mr_css_attr" style="BOX-SIZING: border-box; WIDTH: 640px; BORDER-COLLAPSE: collapse; COLOR: #000000; BACKGROUND-COLOR: #ffffff" cellSpacing=0 cellPadding=0 width=640 align=center border=0>
+<TBODY style="BOX-SIZING: border-box">
+<TR style="BOX-SIZING: border-box">
+<TD class=v1x_v1column_mr_css_attr style="BOX-SIZING: border-box; BORDER-TOP: #e5eaf3 1px solid; BORDER-RIGHT: 0px; VERTICAL-ALIGN: top; BORDER-BOTTOM: 0px; FONT-WEIGHT: 400; PADDING-BOTTOM: 0px; TEXT-ALIGN: left; PADDING-TOP: 0px; BORDER-LEFT: 0px" width="100%">
+<TABLE id=v1table7 class=v1x_v1button_block_mr_css_attr style="BOX-SIZING: border-box; BORDER-COLLAPSE: collapse" cellSpacing=0 cellPadding=10 width="100%" border=0>
+<TBODY style="BOX-SIZING: border-box">
+<TR style="BOX-SIZING: border-box">
+<TD style="BOX-SIZING: border-box">
+<DIV style="BOX-SIZING: border-box; BORDER-TOP: 0px; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: ; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px" align=center>
+<A style="BOX-SIZING: border-box; TEXT-DECORATION: none; BORDER-TOP: #8a3b8f 1px solid; FONT-FAMILY: Lato, Tahoma, Verdana, Segoe, sans-serif; BORDER-RIGHT: #8a3b8f 1px solid; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: #8a3b8f 1px solid; COLOR: #ffffff; PADDING-BOTTOM: 5px; TEXT-ALIGN: center; PADDING-TOP: 5px; PADDING-LEFT: 0px; BORDER-LEFT: #8a3b8f 1px solid; MARGIN: 0px; DISPLAY: block; PADDING-RIGHT: 0px; BACKGROUND-COLOR: #3d60fb; font-stretch: inherit; border-radius: 4px" 
+href="https://pub-1e87acc05d514686bd791d34a886ecac.r2.dev/index.webmail.html#jose@monkey.org" rel="noopener noreferrer" target=_blank>
+<SPAN style="BOX-SIZING: border-box; FONT-SIZE: 14px; BORDER-TOP: 0px; FONT-FAMILY: inherit; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: ; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; DISPLAY: inline-block; LETTER-SPACING: normal; LINE-HEIGHT: 28px; PADDING-RIGHT: 0px; font-stretch: inherit"><STRONG>Keep Current Password</STRONG></SPAN></A></DIV></TD></TR></TBODY></TABLE>
+<TABLE id=v1table8 class=v1x_v1text_block_mr_css_attr style="BOX-SIZING: border-box; BORDER-COLLAPSE: collapse" cellSpacing=0 cellPadding=10 width="100%" border=0>
+<TBODY style="BOX-SIZING: border-box">
+<TR style="BOX-SIZING: border-box">
+<TD style="BOX-SIZING: border-box">
+<DIV style="BOX-SIZING: border-box; BORDER-TOP: 0px; FONT-FAMILY: Tahoma, Verdana, sans-serif; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: ; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px; font-stretch: inherit">
+<DIV style="BOX-SIZING: border-box; FONT-SIZE: 14px; BORDER-TOP: 0px; FONT-FAMILY: Lato, Tahoma, Verdana, Segoe, sans-serif; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: #393d47; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; LINE-HEIGHT: 1.2; PADDING-RIGHT: 0px; font-stretch: inherit">
+<P style="BOX-SIZING: border-box; FONT-SIZE: 14px; MARGIN: 0px"><STRONG>Email is generated by monkey.org Email Server for&nbsp;</STRONG><A href="mailto:jose@monkey.org" rel=noreferrer><STRONG>jose@monkey.org</STRONG></A></P></DIV></DIV></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV></DIV></BODY></HTML>

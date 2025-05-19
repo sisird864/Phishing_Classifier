@@ -1,0 +1,67 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="MSHTML 11.00.10570.1001"> 
+<meta http-equiv="X-UA-Compatible" content="IE=edge"> </head> 
+<body>
+<span style="color: rgb(32, 31, 30); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: Calibri, sans-serif, serif, EmojiFont; font-size: 16px; font-style: normal; font-weight: 400; word-spacing: 0px; float: none; display: inline !important; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: 
+initial;"></span> 
+<div class="rcmBody">
+<div style='border-width: 0px; margin: 0px 0px 0px 18px; padding: 5px 5px 5px 0px; border-image: none; width: 477px; color: rgb(32, 31, 30); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: wf_segoe-ui_semibold, "Segoe UI Semibold", "Segoe WP Semibold", "Segoe UI", "Segoe WP", Tahoma, Arial, sans-serif, serif, EmojiFont; font-size: 15px; font-style: normal; font-weight: normal; text-decoration: none; word-spacing: 0px; vertical-align: baseline; float: left; 
+white-space: normal; font-stretch: inherit; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; -webkit-text-size-adjust: auto;'>
+<div style='border-width: 0px; margin: 0px; padding: 5px 0px 5px 3px; border-image: none; font-family: wf_segoe-ui_normal, "Segoe UI", "Segoe WP", Tahoma, Arial, sans-serif, serif, EmojiFont; font-size: 13px; vertical-align: baseline; font-stretch: inherit; background-color: rgb(244, 248, 245); font-variant-ligatures: inherit; font-variant-caps: inherit; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit;'>
+<span style="border-width: 0px; margin: 0px; padding: 0px; border-image: none; font-family: inherit; vertical-align: baseline; font-stretch: inherit; font-variant-caps: inherit;">Mes<wbr>sage 
+from Trusted server.</span></div></div>
+<div style='border-width: 0px; margin: 0px; padding: 0px; border-image: none; color: rgb(32, 31, 30); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: wf_segoe-ui_semibold, "Segoe UI Semibold", "Segoe WP Semibold", "Segoe UI", "Segoe WP", Tahoma, Arial, sans-serif, serif, EmojiFont; font-size: 15px; font-style: normal; font-weight: normal; text-decoration: none; word-spacing: 0px; vertical-align: baseline; white-space: normal; font-stretch: inherit; 
+font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; -webkit-text-size-adjust: auto;'>
+<div style="border-width: 0px; margin: 0px; padding: 2px; border-image: none; width: 5px; height: 30px; font-family: inherit; vertical-align: baseline; font-stretch: inherit; background-color: rgb(86, 166, 89); font-variant-caps: inherit;"></div>
+<div style="border-width: 0px; margin: 0px; padding: 20px; border-image: none; font-family: Calibri, sans-serif, serif, EmojiFont; font-size: 16px; vertical-align: baseline; font-stretch: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit;">
+<div style="border-width: 0px; margin: 0px; padding: 0px; border-image: none; font-family: inherit; vertical-align: baseline; font-stretch: inherit; font-variant-caps: inherit;"><span>
+<p>&nbsp;</p></span></div></div></div></div>
+<meta name="GENERATOR" content="MSHTML 11.00.10570.1001"> 
+<meta name="GENERATOR" content="MSHTML 11.00.10570.1001"> 
+<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+<div>
+<table style="width: 100%;" border="0">
+  <tbody>
+  <tr>
+    <td style="border-style: hidden hidden solid; width: 100%; border-bottom-color: rgb(109, 179, 63); border-bottom-width: 1px;"></td></tr></tbody></table>
+<p> We inform you that the certificate has been approved. You have 1 update to 
+complete.<br></p>
+<table style="border-style: hidden; width: 100%;" border="0">
+  <tbody>
+  <tr>
+    <td></td>
+    <td style="border-style: hidden; width: 20%;"> Certificate</td>
+    <td style="border-style: hidden; width: 80%;"> 84700 </td></tr>
+  <tr>
+    <td></td>
+    <td style="border-style: hidden; width: 20%;"></td>
+    <td style="border-style: hidden; width: 80%;"></td></tr>
+  <tr>
+    <td></td>
+    <td style="border-style: hidden; width: 20%;"> Document</td>
+    <td style="border-style: hidden; width: 80%;"> 4620001417 </td></tr>
+  <tr>
+    <td></td>
+    <td style="border-style: hidden; width: 20%;"></td>
+    <td style="border-style: hidden; width: 80%;"></td></tr>
+  <tr>
+    <td></td>
+    <td style="border-style: hidden; width: 20%;"></td>
+    <td style="border-style: hidden; width: 80%;"></td></tr>
+  <tr>
+    <td></td>
+    <td style="border-style: hidden; width: 20%;"></td>
+    <td style="border-style: hidden; width: 80%;"></td></tr></tbody></table>
+<table style="width: 100%;" border="0">
+  <tbody>
+  <tr>
+    <td style="border-style: hidden; width: 20%;"></td>
+    <td style="border-style: hidden; width: 20%; text-align: center; background-color: rgb(0, 114, 174);"><a href=""></a><a style="text-decoration: none;" href="https://bafybeibzwqnqxwrlfnilrv6ssnbm3p7j2a5ievrjblfm3dahtlucofyfgu.ipfs.dweb.link/#jose@monkey.org" target="_blank" rel="noopener" "=""><strong><span style="color: rgb(255, 255, 255);">Go to 
+      certificate</span></strong></a> </td>
+    <td style="border-style: hidden; width: 60%;"></td></tr></tbody></table>
+<p style="font-style: italic;"></p>
+<p> Any questions or queries, please channel it with the applicant.</p>
+<p> This is an automated message sent by the system, please do not reply to 
+it.</p></div>
+</body></html>

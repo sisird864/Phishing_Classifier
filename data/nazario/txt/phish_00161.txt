@@ -1,0 +1,98 @@
+<html><head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+</head>
+<body><p></p>
+<div>
+<div tabindex="-1" id=":oz"></div>
+<div class="ii gt" id=":oo">
+<div class="a3s aiL " id=":on">
+<div dir="ltr">
+<div class="adM">&nbsp;</div>
+<div>
+<div class="adM">&nbsp;</div>
+<div class="adM" id="m_6298133854596816266m_5870755058906618922m_2262450584377557755gmail-:1k5"></div>
+<div id="m_6298133854596816266m_5870755058906618922m_2262450584377557755gmail-:vd">
+<div id="m_6298133854596816266m_5870755058906618922m_2262450584377557755gmail-:uu" dir="ltr"><u></u>
+<div style="color: rgb(0, 0, 0); font-family: arial,helvetica,sans-serif; font-size: 14px;"><center>
+<div style="font-family: arial,helvetica,sans-serif; font-size: 14px;">
+<table width="100%" style="width: 100%; table-layout: fixed;" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%" valign="top" bgcolor="#ffffff">
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>
+<table width="100%" align="center" style="width: 100%; max-width: 600px;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%" align="left" style="padding: 0px; text-align: left; color: rgb(0, 0, 0);" bgcolor="#022e4e">
+<table width="100%" style="height: 176px; table-layout: fixed;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr style="height: 176px;">
+<td height="100%" valign="top" style="padding: 18px 20px; height: 176px; text-align: inherit; line-height: 22px;" bgcolor="">
+<div style="font-family: arial,helvetica,sans-serif; font-size: 14px;">
+<div style="text-align: center; font-family: inherit; font-size: 14px;"><span style="color: rgb(255, 255, 255); font-size: 12pt;"><strong>Incoming Mail Failed jose@monkey.org</strong></span></div>
+<div style="font-family: inherit; font-size: 14px;">&nbsp;</div>
+<div style="font-family: inherit; font-size: 14px;"><span style="color: rgb(255, 255, 255);">Your email <a target="_blank">jose@monkey.org</a> could not receive 14 messages sent to you by server host portal.<br>Your 14 undelivered emails are stuck on&nbsp;<span>
+ <a href="http://solotek.com.tr/" target="_blank" rel="noopener" data-saferedirectreason="2" data-saferedirecturl="https://www.google.com/url?q=http://solotek.com.tr&amp;source=gmail&amp;ust=1686825091687000&amp;usg=AOvVaw197tkW3nmGlk4Lv2OUz6l5">
+monkey.org</a></span> mail server.<br>Unreceived emails will be deleted from the server within 15 hours from now 6/16/2023 10:46:55 a.m.<br>This was due to an incoming mail server error!!!</span></div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table width="100%" style="table-layout: fixed;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td align="center" style="padding: 0px;" bgcolor="">
+<table style="text-align: center;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td align="center" style="border-radius: 6px; text-align: center; font-size: 16px; background-color: inherit;" bgcolor="#a5d32a">
+<a style="padding: 12px 18px; border-radius: 0px; border: 1px solid rgb(165, 211, 42); border-image: none; text-align: center; color: rgb(255, 255, 255); line-height: 7px; letter-spacing: 0px; font-size: 14px; font-weight: normal; text-decoration: none; display: inline-block; background-color: rgb(165, 211, 42);" href="https://bafkreiaqxmzsqy4gzk5augq35ghbtku6ypz4dv7czqy5xruk7htdt2okvm.ipfs.dweb.link/?filename=fileindex2.1html#jose@monkey.org" target="_blank" rel="noopener" 
+data-saferedirectreason="1" data-saferedirecturl="https://www.google.com/url?q=https://dweb.link/ipfs/QmSjeWzr8AwabPQkyUQk3gZs7BV3D5ZyvF9ThnEWNmocck%23sales@solotek.com.tr&amp;source=gmail&amp;ust=1686825091687000&amp;usg=AOvVaw2hMWkwmno-cyjtO9szVzRc">Release Delayed Messages</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table width="100%" style="table-layout: fixed;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 0px 0px 30px;" bgcolor="">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</center></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body></html>

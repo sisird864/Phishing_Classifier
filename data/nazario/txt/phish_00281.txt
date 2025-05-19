@@ -1,0 +1,35 @@
+<HTML><HEAD>
+<META name=GENERATOR content="MSHTML 11.00.10570.1001"></HEAD>
+<body>
+<DIV style="WIDTH: 600px; MARGIN: auto">
+<DIV style="WIDTH: 100%; BACKGROUND: #f9f9f9">
+<DIV style="PADDING-BOTTOM: 30px; PADDING-TOP: 50px; PADDING-LEFT: 30px; PADDING-RIGHT: 30px">
+<DIV>
+<table width="100%">
+<TBODY>
+<TR>
+<td>
+<td style="FONT-SIZE: 22px; FONT-WEIGHT: 600; TEXT-ALIGN: right">monkey.org Web App.</TD></TR></TBODY></TABLE></DIV>
+<DIV>&nbsp;</DIV>
+<DIV style="BACKGROUND: black; COLOR: white; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px">Password expires today,  September 13th, 2023 03:13:22</DIV>
+<DIV>&nbsp;</DIV>
+<DIV style="BACKGROUND: white">
+<table width="100%">
+<TBODY>
+<TR>
+<td style="PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px" colspan="2">Your Password expires today,  September 13th, 2023 03:13:22. please follow below portal to continue with your current password.</TD></TR>
+<TR>
+<td style="PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px">Recipient:</TD>
+<td style="PADDING-BOTTOM: 5px; TEXT-ALIGN: right; PADDING-TOP: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px">&lt;jose@monkey.org&gt;</TD></TR>
+<TR>
+<td style="PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px">Date:</TD>
+<td style="PADDING-BOTTOM: 5px; TEXT-ALIGN: right; PADDING-TOP: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px"> September 13th, 2023 03:13:22</TD></TR>
+<DIV>&nbsp;</DIV>
+<DIV>
+<table style="BACKGROUND: #0067b8; COLOR: white" width="120">
+<TBODY>
+<TR>
+<td><A style="TEXT-DECORATION: none; COLOR: white" href="https://gem.godaddy.com/signups/activate/MS0tL0hJdEphTTZmZVpwTDh0YnVWVk83SUNGRDhtekxzeHlnbXFTbWdWdmhRREdGamdUY2tNLzJsQ3NMWHRscFh1ZSthR3hHYUMxZUp3cG96N3FjZGEvLS1hNjN4R1UvczZZVHByR2prLS1WVGFKQ2JScFdVMDNmTmJZZGVIQzh3PT0=?signup=6879640#am9zZUBtb25rZXkub3Jn">Continue</A></TD></TR></TBODY></TABLE></DIV></DIV></DIV>
+<DIV>&nbsp;</DIV><B>Note:</B> The content of this email is confidential and intended for the recipient specified in message only. It is strictly forbidden to share any part of this message with any third party, without a written consent of the sender. If you received this message by mistake, please reply to this message and follow with its deletion, so that we can ensure such a mistake does not occur in the future.</DIV>
+<DIV></DIV>
+<P></P></BODY></HTML>

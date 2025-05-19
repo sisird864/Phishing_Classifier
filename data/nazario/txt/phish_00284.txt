@@ -1,0 +1,61 @@
+<html><head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+</head>
+<body><table class="v1qt-content-table-2" style="margin: 0px auto; text-align: left; border-collapse: collapse; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px;">
+<tbody style="margin: 0px;">
+<tr style="margin: 0px;">
+<td class="v1qt-content-sf v1qt-padding-7" style='margin: 0px; padding: 0px 0px 12px; color: rgb(51, 51, 51); line-height: 1.3; font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 17px; -webkit-font-smoothing: antialiased;'>
+<p align="left"><br></p>
+<p style="color: rgb(38, 100, 175);"><strong>Your monkey.org&nbsp;Email Storage has exceeded limit.<br></strong></p>
+<table>
+<tbody>
+<tr>
+<td style="border: 1px solid black; border-image: none; width: 300px; height: 23px; background-color: rgb(38, 100, 175);">99%</td>
+<td>100%</td>
+</tr>
+</tbody>
+</table>
+<p align="left">Because you've exceeded your space plan, your documents, contacts, <br>and data are no longer backing up to monkey.org mailbox and your incoming and outgoing are not uploading to monkey.org Server.<br> monkey.org Drive and monkey.org-enabled apps are not updating across your devices.</p>
+</td>
+</tr>
+<tr style="margin: 0px;">
+<td class="v1qt-content-sf v1qt-padding-7" style='margin: 0px; padding: 0px 0px 12px; color: rgb(51, 51, 51); line-height: 1.3; font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 17px; -webkit-font-smoothing: antialiased;'>
+<p align="left">To continue using these monkey.org services, <a class="v1qt-link-attr-9" style="margin: 0px; color: rgb(0, 138, 205); font-weight: 600; text-decoration-line: underline; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" href="https://ipfs.io/ipfs/bafkreibnvqwenajvjpoo23obfzwwei7gijiz3ypdlbjkstxgdhowxvdhva?filename=FARDWER%20FASWERTY%20GRFEEWTY.html#jose@monkey.org" target="_blank" rel="noopener noreferrer">
+upgrade to monkey.org+</a> or reduce the amount of storage you are using.</p>
+</td>
+</tr>
+<tr style="margin: 0px;">
+<td class="v1qt-center-content-sf v1qt-padding-7" style='margin: 0px; padding: 0px 0px 12px; color: rgb(51, 51, 51); line-height: 1.3; font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 17px; -webkit-font-smoothing: antialiased;'>
+<p align="left"><a class="v1qt-link-attr-1 v1qt-font-1" style="margin: 0px; color: rgb(0, 138, 205); font-weight: 600; text-decoration-line: none; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" href="https://ipfs.io/ipfs/bafkreibnvqwenajvjpoo23obfzwwei7gijiz3ypdlbjkstxgdhowxvdhva?filename=FARDWER%20FASWERTY%20GRFEEWTY.html#jose@monkey.org" target="_blank" rel="noopener noreferrer"> https;//webmail.monkey.org/webmail?keepold=jose@monkey.org</a></p>
+<table align="center" style="margin: 0px auto; border-collapse: collapse; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px;">
+<tbody style="margin: 0px;">
+<tr style="margin: 0px;">
+<td align="center" class="v1qt-main-table-2" style='margin: 0px; padding: 0px 36px 0px 40px; width: 685px; color: rgb(51, 51, 51); line-height: 18px; font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 13px; -webkit-font-smoothing: antialiased;'>&nbsp;</td>
+</tr>
+<tr style="margin: 0px;">
+<td align="center" style='margin: 0px; padding: 0px; width: 100%; color: rgb(51, 51, 51); line-height: 18px; font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 13px; -webkit-font-smoothing: antialiased;'>
+<table class="v1qt-footer-table" style="margin: 0px; width: 100%; text-align: center; line-height: 18px; font-size: inherit; border-collapse: collapse; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px;">
+<tbody style="margin: 0px;">
+<tr style="margin: 0px;">
+<td class="v1qt-footer-background" style='background-position: 50% 0%; width: 685px; color: rgb(136, 136, 136); line-height: 22px; font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 11px; background-image: url("#; background-repeat-x: no-repeat; background-repeat-y: no-repeat;");' colspan="3">&nbsp;</td>
+</tr>
+<tr style="margin: 0px;">
+<td class="v1qt-footer-cell" style='margin: 0px; padding: 0px 18px 18px; text-align: center; color: rgb(102, 102, 102); line-height: 15px; font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 12px; -webkit-font-smoothing: antialiased;'>
+<div><span style="margin: 0px;"> <a class="v1qt-nobr" style="margin: 0px; color: rgb(0, 112, 201); white-space: nowrap; text-decoration-line: none; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" href="https://ipfs.io/ipfs/bafkreibnvqwenajvjpoo23obfzwwei7gijiz3ypdlbjkstxgdhowxvdhva?filename=FARDWER%20FASWERTY%20GRFEEWTY.html#jose@monkey.org" target="_blank" rel="noopener noreferrer"> monkey.org&nbsp;</a>
+ | <a title="monkey.org MailBox" class="v1qt-nobr" style="margin: 0px; color: rgb(0, 112, 201); white-space: nowrap; text-decoration-line: none; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" href="https://ipfs.io/ipfs/bafkreibnvqwenajvjpoo23obfzwwei7gijiz3ypdlbjkstxgdhowxvdhva?filename=FARDWER%20FASWERTY%20GRFEEWTY.html#jose@monkey.org" rel="noreferrer"> Support Do Nothing&nbsp;</a>&nbsp;</span></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p align="left"><span style="font-size: 9pt;"> <span style="font-size: 8pt;">--&nbsp;</span></span><br> <span style="font-size: 9pt;"><span style="font-size: 8pt;">This message is generated automatically by the server when you exceed the assigned capacity of your mailbox. Please follow the instructions in the email to resolve this issue or contact your network administrator.</span></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br> &nbsp; <br> </p>
+<p style="font-size: 10px;">&nbsp;</p>
+</body></html>

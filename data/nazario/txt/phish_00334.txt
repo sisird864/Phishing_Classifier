@@ -1,0 +1,35 @@
+<html><head>
+<meta name="GENERATOR" content="MSHTML 11.00.10570.1001">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+</head>
+<body>
+<div class="Ar Au Ao" id=":304" style="display: block;">
+<div tabindex="1" class="Am Al editable LW-avf tS-tW tS-tY" id=":300" role="textbox" aria-controls=":32m" aria-owns=":32m" style="direction: ltr; min-height: 376px;" contenteditable="true" hidefocus="" spellcheck="false" aria-label="Message Body" aria-multiline="true" itacorner="6,7:1,1,0,0" g_editable="true">
+<div>
+<p style="color: rgb(51, 51, 51); font-size: 14px;"><span style='border-width: 0px; margin: 0px; padding: 0px; color: rgb(181, 181, 181); font-family: "lucida grande",verdana,arial,sans-serif; font-size: 12px; vertical-align: baseline; font-stretch: inherit; font-variant-numeric: inherit; font-variant-east-asian: inherit;'>
+# Please type your reply above this line #</span></p>
+<p style="color: rgb(51, 51, 51); font-size: 14px;"><span style='border-width: 0px; margin: 0px; padding: 0px; color: rgb(181, 181, 181); font-family: "lucida grande",verdana,arial,sans-serif; font-size: 12px; vertical-align: baseline; font-stretch: inherit; font-variant-numeric: inherit; font-variant-east-asian: inherit;'></span></p>
+<table width="100%" style="color: rgb(0, 0, 0); font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif; font-size: 0px; border-collapse: collapse; font-stretch: inherit; font-variant-numeric: inherit; font-variant-east-asian: inherit;" border="0" cellspacing="0" cellpadding="0">
+<tbody style="box-sizing: border-box;">
+<tr style="box-sizing: border-box;">
+<td align="left" style="padding: 32px 0px 0px; line-height: 24px; border-collapse: collapse; box-sizing: border-box;">
+<div style="border-width: 0px; margin: 0px; padding: 0px; color: rgb(18, 29, 51); line-height: 1; font-family: helvetica,arial,sans-serif; font-size: 16px; vertical-align: baseline; max-width: 100%; box-sizing: border-box; font-stretch: inherit;">Hi there,</div></td></tr>
+<tr style="box-sizing: border-box;">
+<td align="left" style="padding: 20px 0px; line-height: 24px; border-collapse: collapse; box-sizing: border-box;">
+<div style="border-width: 0px; margin: 0px; padding: 0px; color: rgb(18, 29, 51); line-height: 24px; font-family: helvetica,arial,sans-serif; vertical-align: baseline; max-width: 100%; box-sizing: border-box; font-stretch: inherit;">
+<span style="border-width: 0px; margin: 0px; padding: 0px; vertical-align: baseline; box-sizing: border-box;">
+<div style="line-height: 24px; box-sizing: border-box;"><span style="box-sizing: border-box;">
+<div style="line-height: 24px; box-sizing: border-box;"></div></span></div></span></div></td></tr>
+<tr style="box-sizing: border-box;">
+<td align="left" style="padding: 32px 0px 0px; line-height: 24px; border-collapse: collapse; box-sizing: border-box;"><span style="color: rgb(18, 29, 51); font-family: helvetica,arial,sans-serif; box-sizing: border-box;"><font size="4">Your email (&nbsp;jose@monkey.org ) popped up on the Blockchain&nbsp;</font></span><span style="color: rgb(18, 29, 51); font-family: helvetica,arial,sans-serif; font-size: large;">Crypto</span>
+<font size="4" style="color: rgb(18, 29, 51); font-family: helvetica,arial,sans-serif;">&nbsp;Explorer previously with a transaction of $8,567,356.46 credited to it. We will need you to provide a&nbsp;</font><span style="color: rgb(18, 29, 51); font-family: helvetica,arial,sans-serif; font-size: large;">Crypto</span><font size="4" style="color: rgb(18, 29, 51); font-family: helvetica,arial,sans-serif;">
+&nbsp;WaIIet Address where we can redirect&nbsp;your transaction from your email into your WaIIet Address,&nbsp;with the help of Trust WaIIet's Credit Department System you&nbsp;will need to click on the reply&nbsp;to send your waIIet address and&nbsp;your ticket number 4138844&nbsp;</font><font size="4" style="color: rgb(18, 29, 51); font-family: helvetica,arial,sans-serif;">which is linked to your transaction</font>
+<font size="4" style="color: rgb(18, 29, 51); font-family: helvetica,arial,sans-serif;">
+,&nbsp;Note if you do not have a wallet we can guide your on how to create a new wallet. Please confirm</font><span style="color: rgb(18, 29, 51); font-family: helvetica,arial,sans-serif; font-size: 16px;">.<br></span><br><br>
+<div style="border-width: 0px; margin: 0px; padding: 0px; color: rgb(18, 29, 51); line-height: 24px; font-family: helvetica,arial,sans-serif; font-size: 16px; vertical-align: baseline; max-width: 100%; box-sizing: border-box; font-stretch: inherit;">Best,<br aria-hidden="true" style="box-sizing: border-box;">Trust WaIIet<br></div></td></tr></tbody></table>
+</div>
+<div>
+<p dir="ltr"><br></p>
+<p dir="ltr"><u><font color="#0000ff">Trust WaIIet Support team</font></u></p>
+<p dir="ltr">Please be aware, our staff never has access to users' wallets, passwords or funds. We rely on the information you provide to assist you. Providing screenshots of the problem as it occurs is often useful. Please provide screenshots in png or jpeg formats, as our staff is not permitted to open files of any other type. To add any additional comments or screenshots, simply reply to this email.</p>
+<p dir="ltr">We appreciate your patience as we work to get to your support request as quickly as possible. Thank you for choosing <font color="#0000ff">Trust WaIIe</font>t, and we look forward to speaking with you soon.</p></div></div></div></body></html>

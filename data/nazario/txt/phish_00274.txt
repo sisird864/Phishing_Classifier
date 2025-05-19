@@ -1,0 +1,291 @@
+
+
+<html style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; background: #ffffff; margin: 0 auto !important; padding: 0 !important; height: 100% !important; width: 100% !important;"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="x-apple-disable-message-reformatting">
+  <style>
+    @media (prefers-color-scheme: dark) {
+      .email-container {
+        background: #ffffff !important;
+      }
+
+      .dark-mode {
+        background: rgba(224, 230, 229, 0.849) !important;
+      }
+    }
+    @media only screen and (min-device-width: 320px) and (max-device-width: 374px) {
+      u ~ div .email-container {
+        min-width: 320px !important;
+      }
+    }
+    @media only screen and (min-device-width: 375px) and (max-device-width: 413px) {
+      u ~ div .email-container {
+        min-width: 375px !important;
+      }
+    }
+    @media only screen and (min-device-width: 414px) {
+      u ~ div .email-container {
+        min-width: 414px !important;
+      }
+    }
+    .link {
+      color: #313131;
+    }
+    .CONV.link-secondary {
+      color: #ff5e00 !important;
+    }
+    .CONV_GOLD.link-secondary {
+      color: #aa9157 !important;
+    }
+    .CONV_PRIVATE.link-secondary {
+      color: #808285 !important;
+    }
+    .NEO.link-secondary {
+      color: #ff5e00 !important;
+    }
+    .ISLAMIC.link-secondary {
+      color: #006862 !important;
+    }
+    .ISLAMIC_GOLD.link-secondary {
+      color: #aa9157 !important;
+    }
+    .ISLAMIC_PRIVATE.link-secondary {
+      color: #808285 !important;
+    }
+    .NEO_SIMPLE.link-secondary {
+      color: #7a2182 !important;
+    }
+    .NEO_BUSINESS.link-secondary {
+      color: #1a4198 !important;
+    }
+    @media only screen and (max-width: 600px) {
+      a[class="btn"] {
+        display: block !important;
+        margin-bottom: 10px !important;
+        background-image: none !important;
+        margin-right: 0 !important;
+      }
+    }
+  </style>
+</head>
+
+<body style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; background: #ffffff; margin: 0 auto !important; padding: 0 !important; height: 100% !important; width: 100% !important;">
+<div id="" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif;">
+  <table cellpadding="0" cellspacing="0" align="center" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; background: #ffffff;width: 600px;" bgcolor="#ffffff">
+    <tbody><tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif;">
+      <td style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif;width: 600px;">
+        <!-- HEADER -->
+        <table class="head-wrap" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; width: 600px; margin: 0 auto; padding: 20px 0;" width="600">
+          <tbody><tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif;">
+            <td style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif;"></td>
+            <td class="header email-container" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; display: block !important; width: 600px !important; margin: 0 auto !important; clear: both !important;">
+              <div class="content" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; padding: 0 24px; max-width: 600px; margin: 0 auto; display: block;">
+                <table style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; width: 100%;" width="100%">
+                  <tbody><tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif;">
+                    <td align="center" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; text-align: center; width: 600px;" width="600">
+                                              <img data-imagetype="External" src="https://contentdelivery.mashreqbank.com/common/full-logo/CONV.png" width="237" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; -ms-interpolation-mode: bicubic;">
+                    </td>
+                  </tr>
+                </tbody></table>
+              </div>
+            </td>
+            <td style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif;"></td>
+          </tr>
+        </tbody></table>
+        <!-- /HEADER -->
+        <!-- BODY -->
+        <table class="body-wrap" cellpadding="0" cellspacing="0" align="center" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; width: 100%;" width="600">
+          <tbody><tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif;">
+            <td class="email-container bg_white" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; background: #ffffff; width: 600px !important; margin: 0 auto !important; clear: both !important;">
+              <!-- A Real Hero (and a real human being) -->
+              <p style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-weight: normal; font-size: 16px; line-height: 1.6; color: #313131; margin-top: 0px; margin-bottom: 30px;">
+                <img data-imagetype="External" src="https://contentdelivery.mashreqbank.com/kyc/email/header-image-2.jpg" width="600" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; -ms-interpolation-mode: bicubic;">
+              </p>
+              <!-- /hero -->                   <div class="content" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; padding: 0 24px; max-width: 600px; margin: 0 auto; display: block;">
+                    <table style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; width: 100%; background:#FFFDE7; padding:0 12px; border-radius:4px; margin-bottom: 12px;" width="100%">
+                        <tbody><tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif;">
+                              <td>
+                                <img data-imagetype="External" src="https://contentdelivery.mashreqbank.com/kyc/email/amber-alert-icon.png" style="height:25px">
+                              </td>
+                                <td style="padding-top: 12px; padding-bottom: 12px; padding-right: 24px">
+                                    <p style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-weight: normal; font-size: 16px; line-height: 1.6; color: #F8A435; margin: 0; margin-left: 20px; float: left;">
+                                      Update your ID documents
+                                    </p>
+                              </td>
+                        </tr>
+                      </tbody></table>
+                <table style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; width: 100%;" width="100%">
+                  <tbody><tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif;">
+                    <td style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif;">
+                      <h2 style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light',
+        'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; line-height: 1.3; color: #313131; font-weight: bold; font-size: 26px; margin-top: 10px; margin-bottom: 32px;">
+                                Please update ID document(s) of your Mashreq Account to ensure banking continuity
+                      </h2>
+                      <h3 style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light',
+      'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; line-height: 1.1; color: #313131; font-weight: bold; font-size: 16px; margin-bottom: 24px;">
+                        <span style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-weight: normal;">Dear</span>
+                        <strong>Lоyаl Маshгеq Ваnk Сustоmег</strong>
+                      </h3>
+                      <p style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-weight: normal; font-size: 16px; line-height: 1.6; color: #313131; margin-bottom: 12px;">
+                            This e-mail is to notify you that your Identification Document is due to expire in <strong>1 day</strong>, you have <strong>3 days</strong> to update your documents to ensure banking continuity.
+                      </p>
+                      <h2 style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light',
+                      'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; line-height: 1.3; color: #313131; font-weight: bold; font-size: 20px; margin-top: 24px; margin-bottom: -8px;">For UAE Residents.</h2>
+                      <p style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-weight: normal; font-size: 16px; line-height: 1.6; color: #313131;">
+                        As per Central Bank regulations, customers are required to keep their Emirates ID updated with their respective bank at all times
+                      </p>
+
+                      
+                      
+
+                      
+                      
+
+                    </td>
+                  </tr>
+                </tbody></table>
+                <div style="border-top: 1px solid #DDE0E9; margin-top: 12px; margin-bottom: 12px;"></div>
+              </div>
+
+
+              <div class="content" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; padding: 0 24px; max-width: 600px; margin: 0 auto; display: block;">
+                  <table style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; width: 100%;" width="100%">
+
+                    <tbody><tr>
+                      <td colspan="2">
+                        <h2 style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light',
+          'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; line-height: 1.3; color: #313131; font-weight: bold; font-size: 20px; margin-top: 10px; margin-bottom: 20px;">
+            How to update your ID documents?
+          </h2>
+                        <table cellspacing="5" cellpadding="0" width="100%">
+                          <!-- <tr>
+                            <td>
+                              <p style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-weight: normal; font-size: 16px; line-height: 1.6; color: #313131; margin: 0; width: 100%; float: left;">
+                                You can conveniently update your ID documents as well as the joint account holder documents at any time using any of the below options:
+                              </p>
+                            </td>
+                          </tr> -->
+                          <tbody><tr>
+                            <!-- <td align="left" width="40" height="35">
+                              <img src="https://contentdelivery.mashreqbank.com/common/icons/ico-customer-support.png" width="20" alt style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; -ms-interpolation-mode: bicubic; float: left;">
+                            </td> -->
+                            <td align="left" height="35">
+                              <p style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-weight: normal; font-size: 16px; line-height: 1.6; color: #313131; margin: 0; width: 100%; float: left;">
+                                    You can conveniently update your ID documents as well as the joint account holder's documents at any time using any of the below options:
+                              </p>
+                            </td>
+                          </tr>
+                        </tbody></table>
+                      </td>
+                    </tr>
+                    <tr>
+                        <td>
+                              
+                        </td>
+                        
+                    </tr>
+                    <tr>
+                        <td>
+                              <img data-imagetype="External" src="https://contentdelivery.mashreqbank.com/kyc/email/web.png" style="height:25px">
+                        </td>
+                        <td>
+                            <p style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-weight: normal; font-size: 16px; line-height: 1.6; color: #313131; margin: 0; margin-left: 30px; float: left;">
+
+                                Log into Mashreq Online <a href="https://www.residenciaslosangeles.com/wp-content/cache/lo.php" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" shash="" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; text-decoration: none; display: inline-block;">
+                                  <span style="color:#ff5e00;font-family:Helvetica">www.mashreq.com/login </span>
+                                </a>  and follow the steps to confirm your identity. </p>
+                          </td>
+                    </tr>
+                  </tbody></table>
+
+                </div>
+              <!-- <div class="content" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; padding: 0 24px; max-width: 600px; margin: 0 auto; display: block;">
+
+                <table style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; width: 100%;" width="100%">
+
+                  <tbody><tr>
+                    <td colspan="2" style="height: 30px;">
+                    </td>
+                  </tr>
+                  </tbody>
+                </table>
+              </div> -->
+              <table style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; width: 100%;" width="100%">
+                <tbody><tr>
+                  <td colspan="2" style="height: 50px;">
+                  </td>
+                </tr>
+                </tbody>
+              </table>
+              <div class="content" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; padding: 0 24px; max-width: 600px; margin: 0 auto; display: block;">
+                <table style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; width: 100%;" width="100%">
+                  <tbody><tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif;">
+                    <td style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif;">
+                      <p style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-weight: normal; font-size: 16px; line-height: 1.6; color: #313131; margin-top: 0px; margin-bottom: 16px;">
+                        Best Regards,<br style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif;">
+                          Mashreq
+                      </p>
+                      <p style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-weight: normal; line-height: 1.6; font-size: 14px; color: #6e6e6e; margin-bottom: 20px;">
+                          Mashreqbank PSC is regulated by the Central Bank of the United Arab Emirates.
+                      </p>
+                      <p style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-weight: normal; line-height: 1.6; font-size: 14px; color: #6e6e6e; margin-bottom: 40px;">
+                        Do not reply to this email, this is a system generated email message. For any queries, please contact the Bank.
+                         <br style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif;">
+                      </p>
+                    </td>
+                  </tr>
+                </tbody></table>
+              </div>
+
+              <!-- footer -->
+              <table class="social" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; background-color: #eff1f5; padding: 16px 24px;" bgcolor="#eff1f5" width="100%">
+                <tbody><tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif;">
+                  <td style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif;">
+                      <img data-imagetype="External" src="https://contentdelivery.mashreqbank.com/common/small-logo/CONV.png" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; -ms-interpolation-mode: bicubic; float: left; margin-right: 8px;" width="46" alt="">
+                    <span style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin-top: 4px; font-size: 12px; display: inline-block;">Copyright © 2023 Mashreq</span>
+                  </td>
+                  <td style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; text-align: right;" align="right">
+                    <table border="0" cellspacing="0" cellpadding="0" width="100%" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif;">
+                      <tbody style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif;">
+                      <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif;">
+                        <td align="center" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; padding: 8px 6px; border-radius: 2px;">
+                          <a href="https://www.facebook.com/Mashreqbank/" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" shash="" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; text-decoration: none; display: inline-block;"><img data-imagetype="External" src="https://contentdelivery.mashreqbank.com/common/icons/facebook.png" width="8" alt="" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; -ms-interpolation-mode: bicubic;">
+                          </a>
+                        </td>
+                        <td align="center" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; padding: 8px 6px; border-radius: 2px;">
+                          <a href="https://www.youtube.com/user/Mashreqbanklive" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" shash="" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; text-decoration: none; display: inline-block;"><img data-imagetype="External" src="https://contentdelivery.mashreqbank.com/common/icons/youtube.png" width="16" alt="" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; -ms-interpolation-mode: bicubic;">
+                          </a>
+                        </td>
+
+                        <td align="center" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; padding: 8px 6px; border-radius: 2px;">
+                          <a href="https://www.linkedin.com/company/mashreqbank" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" shash="" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; text-decoration: none; display: inline-block;"><img data-imagetype="External" src="https://contentdelivery.mashreqbank.com/common/icons/linkedin.png" width="15" alt="" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; -ms-interpolation-mode: bicubic;">
+                          </a>
+                        </td>
+                        <td align="center" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; padding: 8px 6px; border-radius: 2px;">
+                          <a href="https://www.instagram.com/mashreq/" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" shash="" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; text-decoration: none; display: inline-block;"><img data-imagetype="External" src="https://contentdelivery.mashreqbank.com/common/icons/instagram.png" width="18" alt="" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; -ms-interpolation-mode: bicubic;">
+                          </a>
+                        </td>
+
+                        <td align="center" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; padding: 8px 6px; border-radius: 2px;">
+                          <a href="https://twitter.com/MashreqTweets" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" shash="" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; text-decoration: none; display: inline-block;"><img data-imagetype="External" src="https://contentdelivery.mashreqbank.com/common/icons/twitter.png" width="17" alt="" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; -ms-interpolation-mode: bicubic;">
+                          </a>
+                        </td>
+                      </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody></table>
+              <!-- /footer -->
+            </td>
+          </tr>
+        </tbody></table>
+        <!-- /BODY -->
+      </td>
+    </tr>
+  </tbody></table>
+</div>
+
+</body></html>

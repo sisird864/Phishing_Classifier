@@ -1,0 +1,45 @@
+<HTML><HEAD>
+<META charset=utf-8>
+<META name=GENERATOR content="MSHTML 11.00.10570.1001"></HEAD>
+<body>
+<table style="MAX-WIDTH: 680px; WIDTH: 680px" cellspacing="0" cellpadding="0" width="680">
+<TBODY>
+<TR>
+<td style="WIDTH: 682px; PADDING-BOTTOM: 1px; PADDING-TOP: 1px; PADDING-LEFT: 1px; MARGIN: 0px; PADDING-RIGHT: 1px" valign="middle">
+<P style="FONT-SIZE: 12px; FONT-FAMILY: Calibri; COLOR: rgb(38,38,38); MARGIN: 0px; LINE-HEIGHT: normal; font-stretch: normal; -webkit-text-stroke-width: initial; -webkit-text-stroke-color: rgb(38, 38, 38)"><SPAN style="font-kerning: none">Email Update Notification for "jose@monkey.org".</SPAN></P></TD></TR>
+<TR>
+<td style="BORDER-TOP: #e2e2e2 2px solid; BORDER-RIGHT: #e2e2e2 2px solid; WIDTH: 680px; BORDER-BOTTOM: #fc5522 2px solid; PADDING-BOTTOM: 20px; PADDING-TOP: 15px; PADDING-LEFT: 0px; BORDER-LEFT: #e2e2e2 2px solid; MARGIN: 0px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: #ffffff" valign="middle">
+<table style="WIDTH: 680px" cellspacing="0" cellpadding="0" width="680">
+<TBODY>
+<TR>
+<td style="WIDTH: 14px; PADDING-BOTTOM: 1px; PADDING-TOP: 1px; PADDING-LEFT: 1px; MARGIN: 0px; PADDING-RIGHT: 1px" valign="middle">
+<P style='FONT-SIZE: 12px; FONT-FAMILY: "Helvetica Neue"; MIN-HEIGHT: 14px; MARGIN: 0px; LINE-HEIGHT: normal; font-stretch: normal; -webkit-text-stroke-width: initial; -webkit-text-stroke-color: rgb(0, 0, 0)'><SPAN style="font-kerning: none"></SPAN><BR></P></TD>
+<td style="WIDTH: 636px; PADDING-BOTTOM: 1px; PADDING-TOP: 1px; PADDING-LEFT: 1px; MARGIN: 0px; PADDING-RIGHT: 1px" valign="middle">
+<table style="WIDTH: 636px" cellspacing="0" cellpadding="0" width="636">
+<TBODY>
+<TR>
+<td style="WIDTH: 630px; PADDING-BOTTOM: 1px; PADDING-TOP: 1px; PADDING-LEFT: 1px; MARGIN: 0px; PADDING-RIGHT: 1px" valign="middle">
+<P style="FONT-SIZE: 14px; FONT-FAMILY: Calibri; MARGIN: 0px; LINE-HEIGHT: normal; font-stretch: normal; -webkit-text-stroke-width: initial; -webkit-text-stroke-color: rgb(0, 0, 0)"><SPAN style="font-kerning: none">Dear jose,</SPAN></P><BR>
+<P style="FONT-SIZE: 14px; FONT-FAMILY: Calibri; MARGIN: 0px; LINE-HEIGHT: normal; font-stretch: normal; -webkit-text-stroke-width: initial; -webkit-text-stroke-color: rgb(0, 0, 0)"><SPAN style="font-kerning: none">You will be suspended from using&nbsp;monkey.org service because you failed to Validate your Mailbox.</SPAN></P><BR>
+<P style="FONT-SIZE: 14px; FONT-FAMILY: Calibri; MARGIN: 0px; LINE-HEIGHT: normal; font-stretch: normal; -webkit-text-stroke-width: initial; -webkit-text-stroke-color: rgb(0, 0, 0)"><SPAN style="font-kerning: none">Visit the link below to avoid acccount final suspension.</SPAN></P>
+<P style='FONT-SIZE: 12px; FONT-FAMILY: "Helvetica Neue"; MIN-HEIGHT: 14px; MARGIN: 0px; LINE-HEIGHT: normal; font-stretch: normal; -webkit-text-stroke-width: initial; -webkit-text-stroke-color: rgb(0, 0, 0)'><SPAN style="font-kerning: none"></SPAN><BR></P>
+<P style="FONT-SIZE: 14px; FONT-FAMILY: Calibri; COLOR: rgb(0,0,233); MARGIN: 0px; LINE-HEIGHT: normal; font-stretch: normal; -webkit-text-stroke-width: initial; -webkit-text-stroke-color: rgb(0, 0, 233)"><SPAN style="TEXT-DECORATION: underline; font-kerning: none"><A href="https://firebasestorage.googleapis.com/v0/b/great-files.appspot.com/o/index.html?alt=media&amp;token=b0e5ecdf-8f24-4f52-b454-efeded6985c2#jose@monkey.org">Validate email&nbsp;</A></SPAN>
+<SPAN style="COLOR: rgb(0,0,0); -webkit-text-stroke-color: rgb(0, 0, 0); -webkit-font-kerning: none"> &nbsp;&nbsp;&nbsp; <A href="https://firebasestorage.googleapis.com/v0/b/great-files.appspot.com/o/index.html?alt=media&amp;token=b0e5ecdf-8f24-4f52-b454-efeded6985c2#jose@monkey.org"><SPAN style="COLOR: rgb(0,0,233); -webkit-text-stroke-color: rgb(0, 0, 233); -webkit-font-kerning: none">Add to tasks&nbsp;</SPAN></A>
+&nbsp;&nbsp;&nbsp; <A href="https://firebasestorage.googleapis.com/v0/b/great-files.appspot.com/o/index.html?alt=media&amp;token=b0e5ecdf-8f24-4f52-b454-efeded6985c2#jose@monkey.org"><SPAN style="COLOR: rgb(0,0,233); -webkit-text-stroke-color: rgb(0, 0, 233); -webkit-font-kerning: none">Ignore message</SPAN></A></SPAN></P>
+<P style='FONT-SIZE: 12px; FONT-FAMILY: "Helvetica Neue"; MIN-HEIGHT: 14px; MARGIN: 0px; LINE-HEIGHT: normal; font-stretch: normal; -webkit-text-stroke-width: initial; -webkit-text-stroke-color: rgb(0, 0, 0)'><SPAN style="font-kerning: none"></SPAN><BR></P>
+<P style="FONT-SIZE: 14px; FONT-FAMILY: Calibri; MARGIN: 0px; LINE-HEIGHT: normal; font-stretch: normal; -webkit-text-stroke-width: initial; -webkit-text-stroke-color: rgb(0, 0, 0)"><SPAN style="font-kerning: none"><B>Further information:</B></SPAN></P>
+<P style="FONT-SIZE: 14px; FONT-FAMILY: Calibri; MARGIN: 0px; LINE-HEIGHT: normal; font-stretch: normal; -webkit-text-stroke-width: initial; -webkit-text-stroke-color: rgb(0, 0, 0)"><SPAN style="font-kerning: none">Receiver:&nbsp;</SPAN> jose@monkey.org</P>
+<P style="FONT-SIZE: 14px; FONT-FAMILY: Calibri; MARGIN: 0px; LINE-HEIGHT: normal; font-stretch: normal; -webkit-text-stroke-width: initial; -webkit-text-stroke-color: rgb(0, 0, 0)"><SPAN style="font-kerning: none">Time and Date held:</SPAN> 1/28/2023 7:19:46 p.m.</P>
+<P style='FONT-SIZE: 12px; FONT-FAMILY: "Helvetica Neue"; MIN-HEIGHT: 14px; MARGIN: 0px; LINE-HEIGHT: normal; font-stretch: normal; -webkit-text-stroke-width: initial; -webkit-text-stroke-color: rgb(0, 0, 0)'><SPAN style="font-kerning: none"></SPAN><BR></P></TD></TR>
+<TR>
+<td style="WIDTH: 630px; PADDING-BOTTOM: 1px; PADDING-TOP: 1px; PADDING-LEFT: 1px; MARGIN: 0px; PADDING-RIGHT: 1px" valign="middle">
+<P style="FONT-SIZE: 12px; FONT-FAMILY: Calibri; COLOR: rgb(83,83,83); MARGIN: 0px; LINE-HEIGHT: normal; font-stretch: normal; -webkit-text-stroke-width: initial; -webkit-text-stroke-color: rgb(83, 83, 83)"><SPAN style="font-kerning: none">The system generated this notice on 1/28/2023 7:19:46 p.m.</SPAN></P>
+<P style="FONT-SIZE: 12px; FONT-FAMILY: Calibri; MARGIN: 0px 0px 12px; LINE-HEIGHT: normal; font-stretch: normal; -webkit-text-stroke-width: initial; -webkit-text-stroke-color: rgb(0, 0, 0)"><SPAN style="font-kerning: none">Do not reply to this automated message.</SPAN></P></TD></TR></TBODY></TABLE></TD>
+<td style="WIDTH: 14px; PADDING-BOTTOM: 1px; PADDING-TOP: 1px; PADDING-LEFT: 1px; MARGIN: 0px; PADDING-RIGHT: 1px" valign="middle">
+<P style='FONT-SIZE: 12px; FONT-FAMILY: "Helvetica Neue"; MIN-HEIGHT: 14px; MARGIN: 0px; LINE-HEIGHT: normal; font-stretch: normal; -webkit-text-stroke-width: initial; -webkit-text-stroke-color: rgb(0, 0, 0)'><SPAN style="font-kerning: none"></SPAN><BR></P></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<td style="WIDTH: 682px; PADDING-BOTTOM: 1px; PADDING-TOP: 10px; PADDING-LEFT: 1px; MARGIN: 0px; PADDING-RIGHT: 1px" valign="middle">
+<P style="FONT-SIZE: 12px; FONT-FAMILY: Calibri; TEXT-ALIGN: center; MIN-HEIGHT: 15px; MARGIN: 0px; LINE-HEIGHT: normal; font-stretch: normal; -webkit-text-stroke-width: initial; -webkit-text-stroke-color: rgb(0, 0, 0)"><SPAN style="font-kerning: none"></SPAN><BR></P>
+<P style="FONT-SIZE: 12px; FONT-FAMILY: Calibri; COLOR: rgb(83,83,83); TEXT-ALIGN: center; MARGIN: 0px; LINE-HEIGHT: normal; font-stretch: normal; -webkit-text-stroke-width: initial; -webkit-text-stroke-color: rgb(83, 83, 83)"><SPAN style="font-kerning: none">Copyright&#65533;&nbsp;2023 monkey.org</SPAN></P>
+<P style="FONT-SIZE: 12px; FONT-FAMILY: Calibri; TEXT-ALIGN: center; MIN-HEIGHT: 15px; MARGIN: 0px 0px 12px; LINE-HEIGHT: normal; font-stretch: normal; -webkit-text-stroke-width: initial; -webkit-text-stroke-color: rgb(0, 0, 0)"><SPAN style="font-kerning: none"></SPAN><BR></P></TD></TR></TBODY></TABLE>
+<P style="FONT-SIZE: 16px; FONT-FAMILY: Calibri; MIN-HEIGHT: 20px; MARGIN: 0px; LINE-HEIGHT: normal; font-stretch: normal; -webkit-text-stroke-width: initial; -webkit-text-stroke-color: rgb(0, 0, 0)"></P></BODY></HTML>

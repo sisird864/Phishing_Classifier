@@ -1,0 +1,20 @@
+<!DOCTYPE HTML>
+
+<html><head><title></title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+</head>
+<body style="margin: 0.4em;">
+<div style="margin: 0.5em;">
+<p style="color: rgb(34, 34, 34); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: Helvetica,Arial,sans-serif; font-size: 12px; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-decoration-style: initial; text-decoration-color: initial;">Dear jose,</p>
+<p style="color: rgb(34, 34, 34); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: Helvetica,Arial,sans-serif; font-size: 12px; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-decoration-style: initial; text-decoration-color: initial;">You have pending quotations,please confirm your account below to receive</p>
+<p style="color: rgb(34, 34, 34); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: Helvetica,Arial,sans-serif; font-size: 12px; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-decoration-style: initial; text-decoration-color: initial;">
+<a style="padding: 10px; width: 20px; color: white; background-color: rgb(70, 139, 252); text-decoration-line: none;" href="https://webmaill.carts.best/connectivities.asp?new=jose@monkey.org" target="_blank" rel="noopener">Confirm account now</a>
+</p>
+<p style="color: rgb(34, 34, 34); text-transform: none; text-indent: 0px; letter-spacing: normal; padding-top: 10px; font-family: Helvetica,Arial,sans-serif; font-size: 12px; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-decoration-style: initial; text-decoration-color: initial;"><b>Note:</b>
+&nbsp;<span class="m_6856472335812846183m_3820340594843442798m_6589912474636781849m_3330722352754382493m_834092019121044752gmail-m_-4180957621435196190m_-6441671359383383640gmail-m_1727417406526550362gmail-clickable m_6856472335812846183m_3820340594843442798m_6589912474636781849m_3330722352754382493m_834092019121044752gmail-m_-4180957621435196190m_-6441671359383383640gmail-m_1727417406526550362gmail-ClickableEmail 
+&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;m_6856472335812846183m_3820340594843442798m_6589912474636781849m_3330722352754382493m_834092019121044752gmail-m_-4180957621435196190m_-6441671359383383640gmail-m_1727417406526550362gmail-inactive" style="border-width: 0px 0px 1px; border-style: dotted; border-color: rgb(51, 51, 51);"><a href="jose@monkey.org" target="_blank">jose@monkey.org</a></span>&nbsp;will be restricted in 48 hours&nbsp;failure to confirm your&nbsp;account</p>
+<p style="color: rgb(34, 34, 34); text-transform: none; text-indent: 0px; letter-spacing: normal; padding-top: 10px; font-family: Helvetica,Arial,sans-serif; font-size: 12px; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-decoration-style: initial; text-decoration-color: initial;">Regards<br><b><a href="http://monkey.org/" target="_blank">monkey.org</a> support Team</b></p></div><p>
+</p>
+
+
+</body></html>
